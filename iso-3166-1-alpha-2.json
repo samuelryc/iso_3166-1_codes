@@ -1,1496 +1,998 @@
 [
     {
         "code": "AD",
-        "name": "Andorra",
-        "year": 1974,
-        "cctld": ".ad"
+        "name": "Andorra"
     },
     {
         "code": "AE",
-        "name": "United Arab Emirates",
-        "year": 1974,
-        "cctld": ".ae"
+        "name": "United Arab Emirates"
     },
     {
         "code": "AF",
-        "name": "Afghanistan",
-        "year": 1974,
-        "cctld": ".af"
+        "name": "Afghanistan"
     },
     {
         "code": "AG",
-        "name": "Antigua and Barbuda",
-        "year": 1974,
-        "cctld": ".ag"
+        "name": "Antigua and Barbuda"
     },
     {
         "code": "AI",
-        "name": "Anguilla",
-        "year": 1985,
-        "cctld": ".ai"
+        "name": "Anguilla"
     },
     {
         "code": "AL",
-        "name": "Albania",
-        "year": 1974,
-        "cctld": ".al"
+        "name": "Albania"
     },
     {
         "code": "AM",
-        "name": "Armenia",
-        "year": 1992,
-        "cctld": ".am"
+        "name": "Armenia"
     },
     {
         "code": "AO",
-        "name": "Angola",
-        "year": 1974,
-        "cctld": ".ao"
+        "name": "Angola"
     },
     {
         "code": "AQ",
-        "name": "Antarctica",
-        "year": 1974,
-        "cctld": ".aq"
+        "name": "Antarctica"
     },
     {
         "code": "AR",
-        "name": "Argentina",
-        "year": 1974,
-        "cctld": ".ar"
+        "name": "Argentina"
     },
     {
         "code": "AS",
-        "name": "American Samoa",
-        "year": 1974,
-        "cctld": ".as"
+        "name": "American Samoa"
     },
     {
         "code": "AT",
-        "name": "Austria",
-        "year": 1974,
-        "cctld": ".at"
+        "name": "Austria"
     },
     {
         "code": "AU",
-        "name": "Australia",
-        "year": 1974,
-        "cctld": ".au"
+        "name": "Australia"
     },
     {
         "code": "AW",
-        "name": "Aruba",
-        "year": 1986,
-        "cctld": ".aw"
+        "name": "Aruba"
     },
     {
         "code": "AX",
-        "name": "Åland Islands",
-        "year": 2004,
-        "cctld": ".ax"
+        "name": "Åland Islands"
     },
     {
         "code": "AZ",
-        "name": "Azerbaijan",
-        "year": 1992,
-        "cctld": ".az"
+        "name": "Azerbaijan"
     },
     {
         "code": "BA",
-        "name": "Bosnia and Herzegovina",
-        "year": 1992,
-        "cctld": ".ba"
+        "name": "Bosnia and Herzegovina"
     },
     {
         "code": "BB",
-        "name": "Barbados",
-        "year": 1974,
-        "cctld": ".bb"
+        "name": "Barbados"
     },
     {
         "code": "BD",
-        "name": "Bangladesh",
-        "year": 1974,
-        "cctld": ".bd"
+        "name": "Bangladesh"
     },
     {
         "code": "BE",
-        "name": "Belgium",
-        "year": 1974,
-        "cctld": ".be"
+        "name": "Belgium"
     },
     {
         "code": "BF",
-        "name": "Burkina Faso",
-        "year": 1984,
-        "cctld": ".bf"
+        "name": "Burkina Faso"
     },
     {
         "code": "BG",
-        "name": "Bulgaria",
-        "year": 1974,
-        "cctld": ".bg"
+        "name": "Bulgaria"
     },
     {
         "code": "BH",
-        "name": "Bahrain",
-        "year": 1974,
-        "cctld": ".bh"
+        "name": "Bahrain"
     },
     {
         "code": "BI",
-        "name": "Burundi",
-        "year": 1974,
-        "cctld": ".bi"
+        "name": "Burundi"
     },
     {
         "code": "BJ",
-        "name": "Benin",
-        "year": 1977,
-        "cctld": ".bj"
+        "name": "Benin"
     },
     {
         "code": "BL",
-        "name": "Saint Barthélemy",
-        "year": 2007,
-        "cctld": ".bl"
+        "name": "Saint Barthélemy"
     },
     {
         "code": "BM",
-        "name": "Bermuda",
-        "year": 1974,
-        "cctld": ".bm"
+        "name": "Bermuda"
     },
     {
         "code": "BN",
-        "name": "Brunei Darussalam",
-        "year": 1974,
-        "cctld": ".bn"
+        "name": "Brunei Darussalam"
     },
     {
         "code": "BO",
-        "name": "Bolivia, Plurinational State of",
-        "year": 1974,
-        "cctld": ".bo"
+        "name": "Bolivia, Plurinational State of"
     },
     {
         "code": "BQ",
-        "name": "Bonaire, Sint Eustatius and Saba",
-        "year": 2010,
-        "cctld": ".bq"
+        "name": "Bonaire, Sint Eustatius and Saba"
     },
     {
         "code": "BR",
-        "name": "Brazil",
-        "year": 1974,
-        "cctld": ".br"
+        "name": "Brazil"
     },
     {
         "code": "BS",
-        "name": "Bahamas",
-        "year": 1974,
-        "cctld": ".bs"
+        "name": "Bahamas"
     },
     {
         "code": "BT",
-        "name": "Bhutan",
-        "year": 1974,
-        "cctld": ".bt"
+        "name": "Bhutan"
     },
     {
         "code": "BV",
-        "name": "Bouvet Island",
-        "year": 1974,
-        "cctld": ".bv"
+        "name": "Bouvet Island"
     },
     {
         "code": "BW",
-        "name": "Botswana",
-        "year": 1974,
-        "cctld": ".bw"
+        "name": "Botswana"
     },
     {
         "code": "BY",
-        "name": "Belarus",
-        "year": 1974,
-        "cctld": ".by"
+        "name": "Belarus"
     },
     {
         "code": "BZ",
-        "name": "Belize",
-        "year": 1974,
-        "cctld": ".bz"
+        "name": "Belize"
     },
     {
         "code": "CA",
-        "name": "Canada",
-        "year": 1974,
-        "cctld": ".ca"
+        "name": "Canada"
     },
     {
         "code": "CC",
-        "name": "Cocos (Keeling) Islands",
-        "year": 1974,
-        "cctld": ".cc"
+        "name": "Cocos (Keeling) Islands"
     },
     {
         "code": "CD",
-        "name": "Congo, Democratic Republic of the",
-        "year": 1997,
-        "cctld": ".cd"
+        "name": "Congo, Democratic Republic of the"
     },
     {
         "code": "CF",
-        "name": "Central African Republic",
-        "year": 1974,
-        "cctld": ".cf"
+        "name": "Central African Republic"
     },
     {
         "code": "CG",
-        "name": "Congo",
-        "year": 1974,
-        "cctld": ".cg"
+        "name": "Congo"
     },
     {
         "code": "CH",
-        "name": "Switzerland",
-        "year": 1974,
-        "cctld": ".ch"
+        "name": "Switzerland"
     },
     {
         "code": "CI",
-        "name": "Côte d'Ivoire",
-        "year": 1974,
-        "cctld": ".ci"
+        "name": "Côte d'Ivoire"
     },
     {
         "code": "CK",
-        "name": "Cook Islands",
-        "year": 1974,
-        "cctld": ".ck"
+        "name": "Cook Islands"
     },
     {
         "code": "CL",
-        "name": "Chile",
-        "year": 1974,
-        "cctld": ".cl"
+        "name": "Chile"
     },
     {
         "code": "CM",
-        "name": "Cameroon",
-        "year": 1974,
-        "cctld": ".cm"
+        "name": "Cameroon"
     },
     {
         "code": "CN",
-        "name": "China",
-        "year": 1974,
-        "cctld": ".cn"
+        "name": "China"
     },
     {
         "code": "CO",
-        "name": "Colombia",
-        "year": 1974,
-        "cctld": ".co"
+        "name": "Colombia"
     },
     {
         "code": "CR",
-        "name": "Costa Rica",
-        "year": 1974,
-        "cctld": ".cr"
+        "name": "Costa Rica"
     },
     {
         "code": "CU",
-        "name": "Cuba",
-        "year": 1974,
-        "cctld": ".cu"
+        "name": "Cuba"
     },
     {
         "code": "CV",
-        "name": "Cabo Verde",
-        "year": 1974,
-        "cctld": ".cv"
+        "name": "Cabo Verde"
     },
     {
         "code": "CW",
-        "name": "Curaçao",
-        "year": 2010,
-        "cctld": ".cw"
+        "name": "Curaçao"
     },
     {
         "code": "CX",
-        "name": "Christmas Island",
-        "year": 1974,
-        "cctld": ".cx"
+        "name": "Christmas Island"
     },
     {
         "code": "CY",
-        "name": "Cyprus",
-        "year": 1974,
-        "cctld": ".cy"
+        "name": "Cyprus"
     },
     {
         "code": "CZ",
-        "name": "Czechia",
-        "year": 1993,
-        "cctld": ".cz"
+        "name": "Czechia"
     },
     {
         "code": "DE",
-        "name": "Germany",
-        "year": 1974,
-        "cctld": ".de"
+        "name": "Germany"
     },
     {
         "code": "DJ",
-        "name": "Djibouti",
-        "year": 1977,
-        "cctld": ".dj"
+        "name": "Djibouti"
     },
     {
         "code": "DK",
-        "name": "Denmark",
-        "year": 1974,
-        "cctld": ".dk"
+        "name": "Denmark"
     },
     {
         "code": "DM",
-        "name": "Dominica",
-        "year": 1974,
-        "cctld": ".dm"
+        "name": "Dominica"
     },
     {
         "code": "DO",
-        "name": "Dominican Republic",
-        "year": 1974,
-        "cctld": ".do"
+        "name": "Dominican Republic"
     },
     {
         "code": "DZ",
-        "name": "Algeria",
-        "year": 1974,
-        "cctld": ".dz"
+        "name": "Algeria"
     },
     {
         "code": "EC",
-        "name": "Ecuador",
-        "year": 1974,
-        "cctld": ".ec"
+        "name": "Ecuador"
     },
     {
         "code": "EE",
-        "name": "Estonia",
-        "year": 1992,
-        "cctld": ".ee"
+        "name": "Estonia"
     },
     {
         "code": "EG",
-        "name": "Egypt",
-        "year": 1974,
-        "cctld": ".eg"
+        "name": "Egypt"
     },
     {
         "code": "EH",
-        "name": "Western Sahara",
-        "year": 1974,
-        "cctld": null
+        "name": "Western Sahara"
     },
     {
         "code": "ER",
-        "name": "Eritrea",
-        "year": 1993,
-        "cctld": ".er"
+        "name": "Eritrea"
     },
     {
         "code": "ES",
-        "name": "Spain",
-        "year": 1974,
-        "cctld": ".es"
+        "name": "Spain"
     },
     {
         "code": "ET",
-        "name": "Ethiopia",
-        "year": 1974,
-        "cctld": ".et"
+        "name": "Ethiopia"
     },
     {
         "code": "FI",
-        "name": "Finland",
-        "year": 1974,
-        "cctld": ".fi"
+        "name": "Finland"
     },
     {
         "code": "FJ",
-        "name": "Fiji",
-        "year": 1974,
-        "cctld": ".fj"
+        "name": "Fiji"
     },
     {
         "code": "FK",
-        "name": "Falkland Islands (Malvinas)",
-        "year": 1974,
-        "cctld": ".fk"
+        "name": "Falkland Islands (Malvinas)"
     },
     {
         "code": "FM",
-        "name": "Micronesia, Federated States of",
-        "year": 1986,
-        "cctld": ".fm"
+        "name": "Micronesia, Federated States of"
     },
     {
         "code": "FO",
-        "name": "Faroe Islands",
-        "year": 1974,
-        "cctld": ".fo"
+        "name": "Faroe Islands"
     },
     {
         "code": "FR",
-        "name": "France",
-        "year": 1974,
-        "cctld": ".fr"
+        "name": "France"
     },
     {
         "code": "GA",
-        "name": "Gabon",
-        "year": 1974,
-        "cctld": ".ga"
+        "name": "Gabon"
     },
     {
         "code": "GB",
-        "name": "United Kingdom of Great Britain and Northern Ireland",
-        "year": 1974,
-        "cctld": [".gb", ".uk"]
+        "name": "United Kingdom of Great Britain and Northern Ireland"
     },
     {
         "code": "GD",
-        "name": "Grenada",
-        "year": 1974,
-        "cctld": ".gd"
+        "name": "Grenada"
     },
     {
         "code": "GE",
-        "name": "Georgia",
-        "year": 1992,
-        "cctld": ".ge"
+        "name": "Georgia"
     },
     {
         "code": "GF",
-        "name": "French Guiana",
-        "year": 1974,
-        "cctld": ".gf"
+        "name": "French Guiana"
     },
     {
         "code": "GG",
-        "name": "Guernsey",
-        "year": 2006,
-        "cctld": ".gg"
+        "name": "Guernsey"
     },
     {
         "code": "GH",
-        "name": "Ghana",
-        "year": 1974,
-        "cctld": ".gh"
+        "name": "Ghana"
     },
     {
         "code": "GI",
-        "name": "Gibraltar",
-        "year": 1974,
-        "cctld": ".gi"
+        "name": "Gibraltar"
     },
     {
         "code": "GL",
-        "name": "Greenland",
-        "year": 1974,
-        "cctld": ".gl"
+        "name": "Greenland"
     },
     {
         "code": "GM",
-        "name": "Gambia",
-        "year": 1974,
-        "cctld": ".gm"
+        "name": "Gambia"
     },
     {
         "code": "GN",
-        "name": "Guinea",
-        "year": 1974,
-        "cctld": ".gn"
+        "name": "Guinea"
     },
     {
         "code": "GP",
-        "name": "Guadeloupe",
-        "year": 1974,
-        "cctld": ".gp"
+        "name": "Guadeloupe"
     },
     {
         "code": "GQ",
-        "name": "Equatorial Guinea",
-        "year": 1974,
-        "cctld": ".gq"
+        "name": "Equatorial Guinea"
     },
     {
         "code": "GR",
-        "name": "Greece",
-        "year": 1974,
-        "cctld": ".gr"
+        "name": "Greece"
     },
     {
         "code": "GS",
-        "name": "South Georgia and the South Sandwich Islands",
-        "year": 1993,
-        "cctld": ".gs"
+        "name": "South Georgia and the South Sandwich Islands"
     },
     {
         "code": "GT",
-        "name": "Guatemala",
-        "year": 1974,
-        "cctld": ".gt"
+        "name": "Guatemala"
     },
     {
         "code": "GU",
-        "name": "Guam",
-        "year": 1974,
-        "cctld": ".gu"
+        "name": "Guam"
     },
     {
         "code": "GW",
-        "name": "Guinea-Bissau",
-        "year": 1974,
-        "cctld": ".gw"
+        "name": "Guinea-Bissau"
     },
     {
         "code": "GY",
-        "name": "Guyana",
-        "year": 1974,
-        "cctld": ".gy"
+        "name": "Guyana"
     },
     {
         "code": "HK",
-        "name": "Hong Kong",
-        "year": 1974,
-        "cctld": ".hk"
+        "name": "Hong Kong"
     },
     {
         "code": "HM",
-        "name": "Heard Island and McDonald Islands",
-        "year": 1974,
-        "cctld": ".hm"
+        "name": "Heard Island and McDonald Islands"
     },
     {
         "code": "HN",
-        "name": "Honduras",
-        "year": 1974,
-        "cctld": ".hn"
+        "name": "Honduras"
     },
     {
         "code": "HR",
-        "name": "Croatia",
-        "year": 1992,
-        "cctld": ".hr"
+        "name": "Croatia"
     },
     {
         "code": "HT",
-        "name": "Haiti",
-        "year": 1974,
-        "cctld": ".ht"
+        "name": "Haiti"
     },
     {
         "code": "HU",
-        "name": "Hungary",
-        "year": 1974,
-        "cctld": ".hu"
+        "name": "Hungary"
     },
     {
         "code": "ID",
-        "name": "Indonesia",
-        "year": 1974,
-        "cctld": ".id"
+        "name": "Indonesia"
     },
     {
         "code": "IE",
-        "name": "Ireland",
-        "year": 1974,
-        "cctld": ".ie"
+        "name": "Ireland"
     },
     {
         "code": "IL",
-        "name": "Israel",
-        "year": 1974,
-        "cctld": ".il"
+        "name": "Israel"
     },
     {
         "code": "IM",
-        "name": "Isle of Man",
-        "year": 2006,
-        "cctld": ".im"
+        "name": "Isle of Man"
     },
     {
         "code": "IN",
-        "name": "India",
-        "year": 1974,
-        "cctld": ".in"
+        "name": "India"
     },
     {
         "code": "IO",
-        "name": "British Indian Ocean Territory",
-        "year": 1974,
-        "cctld": ".io"
+        "name": "British Indian Ocean Territory"
     },
     {
         "code": "IQ",
-        "name": "Iraq",
-        "year": 1974,
-        "cctld": ".iq"
+        "name": "Iraq"
     },
     {
         "code": "IR",
-        "name": "Iran, Islamic Republic of",
-        "year": 1974,
-        "cctld": ".ir"
+        "name": "Iran, Islamic Republic of"
     },
     {
         "code": "IS",
-        "name": "Iceland",
-        "year": 1974,
-        "cctld": ".is"
+        "name": "Iceland"
     },
     {
         "code": "IT",
-        "name": "Italy",
-        "year": 1974,
-        "cctld": ".it"
+        "name": "Italy"
     },
     {
         "code": "JE",
-        "name": "Jersey",
-        "year": 2006,
-        "cctld": ".je"
+        "name": "Jersey"
     },
     {
         "code": "JM",
-        "name": "Jamaica",
-        "year": 1974,
-        "cctld": ".jm"
+        "name": "Jamaica"
     },
     {
         "code": "JO",
-        "name": "Jordan",
-        "year": 1974,
-        "cctld": ".jo"
+        "name": "Jordan"
     },
     {
         "code": "JP",
-        "name": "Japan",
-        "year": 1974,
-        "cctld": ".jp"
+        "name": "Japan"
     },
     {
         "code": "KE",
-        "name": "Kenya",
-        "year": 1974,
-        "cctld": ".ke"
+        "name": "Kenya"
     },
     {
         "code": "KG",
-        "name": "Kyrgyzstan",
-        "year": 1992,
-        "cctld": ".kg"
+        "name": "Kyrgyzstan"
     },
     {
         "code": "KH",
-        "name": "Cambodia",
-        "year": 1974,
-        "cctld": ".kh"
+        "name": "Cambodia"
     },
     {
         "code": "KI",
-        "name": "Kiribati",
-        "year": 1979,
-        "cctld": ".ki"
+        "name": "Kiribati"
     },
     {
         "code": "KM",
-        "name": "Comoros",
-        "year": 1974,
-        "cctld": ".km"
+        "name": "Comoros"
     },
     {
         "code": "KN",
-        "name": "Saint Kitts and Nevis",
-        "year": 1974,
-        "cctld": ".kn"
+        "name": "Saint Kitts and Nevis"
     },
     {
         "code": "KP",
-        "name": "Korea, Democratic People's Republic of",
-        "year": 1974,
-        "cctld": ".kp"
+        "name": "Korea, Democratic People's Republic of"
     },
     {
         "code": "KR",
-        "name": "Korea, Republic of",
-        "year": 1974,
-        "cctld": ".kr"
+        "name": "Korea, Republic of"
     },
     {
         "code": "KW",
-        "name": "Kuwait",
-        "year": 1974,
-        "cctld": ".kw"
+        "name": "Kuwait"
     },
     {
         "code": "KY",
-        "name": "Cayman Islands",
-        "year": 1974,
-        "cctld": ".ky"
+        "name": "Cayman Islands"
     },
     {
         "code": "KZ",
-        "name": "Kazakhstan",
-        "year": 1992,
-        "cctld": ".kz"
+        "name": "Kazakhstan"
     },
     {
         "code": "LA",
-        "name": "Lao People's Democratic Republic",
-        "year": 1974,
-        "cctld": ".la"
+        "name": "Lao People's Democratic Republic"
     },
     {
         "code": "LB",
-        "name": "Lebanon",
-        "year": 1974,
-        "cctld": ".lb"
+        "name": "Lebanon"
     },
     {
         "code": "LC",
-        "name": "Saint Lucia",
-        "year": 1974,
-        "cctld": ".lc"
+        "name": "Saint Lucia"
     },
     {
         "code": "LI",
-        "name": "Liechtenstein",
-        "year": 1974,
-        "cctld": ".li"
+        "name": "Liechtenstein"
     },
     {
         "code": "LK",
-        "name": "Sri Lanka",
-        "year": 1974,
-        "cctld": ".lk"
+        "name": "Sri Lanka"
     },
     {
         "code": "LR",
-        "name": "Liberia",
-        "year": 1974,
-        "cctld": ".lr"
+        "name": "Liberia"
     },
     {
         "code": "LS",
-        "name": "Lesotho",
-        "year": 1974,
-        "cctld": ".ls"
+        "name": "Lesotho"
     },
     {
         "code": "LT",
-        "name": "Lithuania",
-        "year": 1992,
-        "cctld": ".lt"
+        "name": "Lithuania"
     },
     {
         "code": "LU",
-        "name": "Luxembourg",
-        "year": 1974,
-        "cctld": ".lu"
+        "name": "Luxembourg"
     },
     {
         "code": "LV",
-        "name": "Latvia",
-        "year": 1992,
-        "cctld": ".lv"
+        "name": "Latvia"
     },
     {
         "code": "LY",
-        "name": "Libya",
-        "year": 1974,
-        "cctld": ".ly"
+        "name": "Libya"
     },
     {
         "code": "MA",
-        "name": "Morocco",
-        "year": 1974,
-        "cctld": ".ma"
+        "name": "Morocco"
     },
     {
         "code": "MC",
-        "name": "Monaco",
-        "year": 1974,
-        "cctld": ".mc"
+        "name": "Monaco"
     },
     {
         "code": "MD",
-        "name": "Moldova, Republic of",
-        "year": 1992,
-        "cctld": ".md"
+        "name": "Moldova, Republic of"
     },
     {
         "code": "ME",
-        "name": "Montenegro",
-        "year": 2006,
-        "cctld": ".me"
+        "name": "Montenegro"
     },
     {
         "code": "MF",
-        "name": "Saint Martin, (French part)",
-        "year": 2007,
-        "cctld": ".mf"
+        "name": "Saint Martin, (French part)"
     },
     {
         "code": "MG",
-        "name": "Madagascar",
-        "year": 1974,
-        "cctld": ".mg"
+        "name": "Madagascar"
     },
     {
         "code": "MH",
-        "name": "Marshall Islands",
-        "year": 1986,
-        "cctld": ".mh"
+        "name": "Marshall Islands"
     },
     {
         "code": "MK",
-        "name": "North Macedonia",
-        "year": 1993,
-        "cctld": ".mk"
+        "name": "North Macedonia"
     },
     {
         "code": "ML",
-        "name": "Mali",
-        "year": 1974,
-        "cctld": ".ml"
+        "name": "Mali"
     },
     {
         "code": "MM",
-        "name": "Myanmar",
-        "year": 1989,
-        "cctld": ".mm"
+        "name": "Myanmar"
     },
     {
         "code": "MN",
-        "name": "Mongolia",
-        "year": 1974,
-        "cctld": ".mn"
+        "name": "Mongolia"
     },
     {
         "code": "MO",
-        "name": "Macao",
-        "year": 1974,
-        "cctld": ".mo"
+        "name": "Macao"
     },
     {
         "code": "MP",
-        "name": "Northern Mariana Islands",
-        "year": 1986,
-        "cctld": ".mp"
+        "name": "Northern Mariana Islands"
     },
     {
         "code": "MQ",
-        "name": "Martinique",
-        "year": 1974,
-        "cctld": ".mq"
+        "name": "Martinique"
     },
     {
         "code": "MR",
-        "name": "Mauritania",
-        "year": 1974,
-        "cctld": ".mr"
+        "name": "Mauritania"
     },
     {
         "code": "MS",
-        "name": "Montserrat",
-        "year": 1974,
-        "cctld": ".ms"
+        "name": "Montserrat"
     },
     {
         "code": "MT",
-        "name": "Malta",
-        "year": 1974,
-        "cctld": ".mt"
+        "name": "Malta"
     },
     {
         "code": "MU",
-        "name": "Mauritius",
-        "year": 1974,
-        "cctld": ".mu"
+        "name": "Mauritius"
     },
     {
         "code": "MV",
-        "name": "Maldives",
-        "year": 1974,
-        "cctld": ".mv"
+        "name": "Maldives"
     },
     {
         "code": "MW",
-        "name": "Malawi",
-        "year": 1974,
-        "cctld": ".mw"
+        "name": "Malawi"
     },
     {
         "code": "MX",
-        "name": "Mexico",
-        "year": 1974,
-        "cctld": ".mx"
+        "name": "Mexico"
     },
     {
         "code": "MY",
-        "name": "Malaysia",
-        "year": 1974,
-        "cctld": ".my"
+        "name": "Malaysia"
     },
     {
         "code": "MZ",
-        "name": "Mozambique",
-        "year": 1974,
-        "cctld": ".mz"
+        "name": "Mozambique"
     },
     {
         "code": "NA",
-        "name": "Namibia",
-        "year": 1974,
-        "cctld": ".na"
+        "name": "Namibia"
     },
     {
         "code": "NC",
-        "name": "New Caledonia",
-        "year": 1974,
-        "cctld": ".nc"
+        "name": "New Caledonia"
     },
     {
         "code": "NE",
-        "name": "Niger",
-        "year": 1974,
-        "cctld": ".ne"
+        "name": "Niger"
     },
     {
         "code": "NF",
-        "name": "Norfolk Island",
-        "year": 1974,
-        "cctld": ".nf"
+        "name": "Norfolk Island"
     },
     {
         "code": "NG",
-        "name": "Nigeria",
-        "year": 1974,
-        "cctld": ".ng"
+        "name": "Nigeria"
     },
     {
         "code": "NI",
-        "name": "Nicaragua",
-        "year": 1974,
-        "cctld": ".ni"
+        "name": "Nicaragua"
     },
     {
         "code": "NL",
-        "name": "Netherlands",
-        "year": 1974,
-        "cctld": ".nl"
+        "name": "Netherlands"
     },
     {
         "code": "NO",
-        "name": "Norway",
-        "year": 1974,
-        "cctld": ".no"
+        "name": "Norway"
     },
     {
         "code": "NP",
-        "name": "Nepal",
-        "year": 1974,
-        "cctld": ".np"
+        "name": "Nepal"
     },
     {
         "code": "NR",
-        "name": "Nauru",
-        "year": 1974,
-        "cctld": ".nr"
+        "name": "Nauru"
     },
     {
         "code": "NU",
-        "name": "Niue",
-        "year": 1974,
-        "cctld": ".nu"
+        "name": "Niue"
     },
     {
         "code": "NZ",
-        "name": "New Zealand",
-        "year": 1974,
-        "cctld": ".nz"
+        "name": "New Zealand"
     },
     {
         "code": "OM",
-        "name": "Oman",
-        "year": 1974,
-        "cctld": ".om"
+        "name": "Oman"
     },
     {
         "code": "PA",
-        "name": "Panama",
-        "year": 1974,
-        "cctld": ".pa"
+        "name": "Panama"
     },
     {
         "code": "PE",
-        "name": "Peru",
-        "year": 1974,
-        "cctld": ".pe"
+        "name": "Peru"
     },
     {
         "code": "PF",
-        "name": "French Polynesia",
-        "year": 1974,
-        "cctld": ".pf"
+        "name": "French Polynesia"
     },
     {
         "code": "PG",
-        "name": "Papua New Guinea",
-        "year": 1974,
-        "cctld": ".pg"
+        "name": "Papua New Guinea"
     },
     {
         "code": "PH",
-        "name": "Philippines",
-        "year": 1974,
-        "cctld": ".ph"
+        "name": "Philippines"
     },
     {
         "code": "PK",
-        "name": "Pakistan",
-        "year": 1974,
-        "cctld": ".pk"
+        "name": "Pakistan"
     },
     {
         "code": "PL",
-        "name": "Poland",
-        "year": 1974,
-        "cctld": ".pl"
+        "name": "Poland"
     },
     {
         "code": "PM",
-        "name": "Saint Pierre and Miquelon",
-        "year": 1974,
-        "cctld": ".pm"
+        "name": "Saint Pierre and Miquelon"
     },
     {
         "code": "PN",
-        "name": "Pitcairn",
-        "year": 1974,
-        "cctld": ".pn"
+        "name": "Pitcairn"
     },
     {
         "code": "PR",
-        "name": "Puerto Rico",
-        "year": 1974,
-        "cctld": ".pr"
+        "name": "Puerto Rico"
     },
     {
         "code": "PS",
-        "name": "Palestine, State of",
-        "year": 1999,
-        "cctld": ".ps"
+        "name": "Palestine, State of"
     },
     {
         "code": "PT",
-        "name": "Portugal",
-        "year": 1974,
-        "cctld": ".pt"
+        "name": "Portugal"
     },
     {
         "code": "PW",
-        "name": "Palau",
-        "year": 1986,
-        "cctld": ".pw"
+        "name": "Palau"
     },
     {
         "code": "PY",
-        "name": "Paraguay",
-        "year": 1974,
-        "cctld": ".py"
+        "name": "Paraguay"
     },
     {
         "code": "QA",
-        "name": "Qatar",
-        "year": 1974,
-        "cctld": ".qa"
+        "name": "Qatar"
     },
     {
         "code": "RE",
-        "name": "Réunion",
-        "year": 1974,
-        "cctld": ".re"
+        "name": "Réunion"
     },
     {
         "code": "RO",
-        "name": "Romania",
-        "year": 1974,
-        "cctld": ".ro"
+        "name": "Romania"
     },
     {
         "code": "RS",
-        "name": "Serbia",
-        "year": 2006,
-        "cctld": ".rs"
+        "name": "Serbia"
     },
     {
         "code": "RU",
-        "name": "Russian Federation",
-        "year": 1992,
-        "cctld": ".ru"
+        "name": "Russian Federation"
     },
     {
         "code": "RW",
-        "name": "Rwanda",
-        "year": 1974,
-        "cctld": ".rw"
+        "name": "Rwanda"
     },
     {
         "code": "SA",
-        "name": "Saudi Arabia",
-        "year": 1974,
-        "cctld": ".sa"
+        "name": "Saudi Arabia"
     },
     {
         "code": "SB",
-        "name": "Solomon Islands",
-        "year": 1974,
-        "cctld": ".sb"
+        "name": "Solomon Islands"
     },
     {
         "code": "SC",
-        "name": "Seychelles",
-        "year": 1974,
-        "cctld": ".sc"
+        "name": "Seychelles"
     },
     {
         "code": "SD",
-        "name": "Sudan",
-        "year": 1974,
-        "cctld": ".sd"
+        "name": "Sudan"
     },
     {
         "code": "SE",
-        "name": "Sweden",
-        "year": 1974,
-        "cctld": ".se"
+        "name": "Sweden"
     },
     {
         "code": "SG",
-        "name": "Singapore",
-        "year": 1974,
-        "cctld": ".sg"
+        "name": "Singapore"
     },
     {
         "code": "SH",
-        "name": "Saint Helena, Ascension and Tristan da Cunha",
-        "year": 1974,
-        "cctld": ".sh"
+        "name": "Saint Helena, Ascension and Tristan da Cunha"
     },
     {
         "code": "SI",
-        "name": "Slovenia",
-        "year": 1992,
-        "cctld": ".si"
+        "name": "Slovenia"
     },
     {
         "code": "SJ",
-        "name": "Svalbard and Jan Mayen",
-        "year": 1974,
-        "cctld": ".sj"
+        "name": "Svalbard and Jan Mayen"
     },
     {
         "code": "SK",
-        "name": "Slovakia",
-        "year": 1993,
-        "cctld": ".sk"
+        "name": "Slovakia"
     },
     {
         "code": "SL",
-        "name": "Sierra Leone",
-        "year": 1974,
-        "cctld": ".sl"
+        "name": "Sierra Leone"
     },
     {
         "code": "SM",
-        "name": "San Marino",
-        "year": 1974,
-        "cctld": ".sm"
+        "name": "San Marino"
     },
     {
         "code": "SN",
-        "name": "Senegal",
-        "year": 1974,
-        "cctld": ".sn"
+        "name": "Senegal"
     },
     {
         "code": "SO",
-        "name": "Somalia",
-        "year": 1974,
-        "cctld": ".so"
+        "name": "Somalia"
     },
     {
         "code": "SR",
-        "name": "Suriname",
-        "year": 1974,
-        "cctld": ".sr"
+        "name": "Suriname"
     },
     {
         "code": "SS",
-        "name": "South Sudan",
-        "year": 2011,
-        "cctld": ".ss"
+        "name": "South Sudan"
     },
     {
         "code": "ST",
-        "name": "Sao Tome and Principe",
-        "year": 1974,
-        "cctld": ".st"
+        "name": "Sao Tome and Principe"
     },
     {
         "code": "SV",
-        "name": "El Salvador",
-        "year": 1974,
-        "cctld": ".sv"
+        "name": "El Salvador"
     },
     {
         "code": "SX",
-        "name": "Sint Maarten, (Dutch part)",
-        "year": 2010,
-        "cctld": ".sx"
+        "name": "Sint Maarten, (Dutch part)"
     },
     {
         "code": "SY",
-        "name": "Syrian Arab Republic",
-        "year": 1974,
-        "cctld": ".sy"
+        "name": "Syrian Arab Republic"
     },
     {
         "code": "SZ",
-        "name": "Eswatini",
-        "year": 1974,
-        "cctld": ".sz"
+        "name": "Eswatini"
     },
     {
         "code": "TC",
-        "name": "Turks and Caicos Islands",
-        "year": 1974,
-        "cctld": ".tc"
+        "name": "Turks and Caicos Islands"
     },
     {
         "code": "TD",
-        "name": "Chad",
-        "year": 1974,
-        "cctld": ".td"
+        "name": "Chad"
     },
     {
         "code": "TF",
-        "name": "French Southern Territories",
-        "year": 1979,
-        "cctld": ".mf"
+        "name": "French Southern Territories"
     },
     {
         "code": "TG",
-        "name": "Togo",
-        "year": 1974,
-        "cctld": ".tg"
+        "name": "Togo"
     },
     {
         "code": "TH",
-        "name": "Thailand",
-        "year": 1974,
-        "cctld": ".th"
+        "name": "Thailand"
     },
     {
         "code": "TJ",
-        "name": "Tajikistan",
-        "year": 1992,
-        "cctld": ".tj"
+        "name": "Tajikistan"
     },
     {
         "code": "TK",
-        "name": "Tokelau",
-        "year": 1974,
-        "cctld": ".tk"
+        "name": "Tokelau"
     },
     {
         "code": "TL",
-        "name": "Timor-Leste",
-        "year": 2002,
-        "cctld": ".tl"
+        "name": "Timor-Leste"
     },
     {
         "code": "TM",
-        "name": "Turkmenistan",
-        "year": 1992,
-        "cctld": ".tm"
+        "name": "Turkmenistan"
     },
     {
         "code": "TN",
-        "name": "Tunisia",
-        "year": 1974,
-        "cctld": ".tn"
+        "name": "Tunisia"
     },
     {
         "code": "TO",
-        "name": "Tonga",
-        "year": 1974,
-        "cctld": ".to"
+        "name": "Tonga"
     },
     {
         "code": "TR",
-        "name": "Turkey",
-        "year": 1974,
-        "cctld": ".tr"
+        "name": "Turkey"
     },
     {
         "code": "TT",
-        "name": "Trinidad and Tobago",
-        "year": 1974,
-        "cctld": ".tt"
+        "name": "Trinidad and Tobago"
     },
     {
         "code": "TV",
-        "name": "Tuvalu",
-        "year": 1977,
-        "cctld": ".tv"
+        "name": "Tuvalu"
     },
     {
         "code": "TW",
-        "name": "Taiwan, Province of China",
-        "year": 1974,
-        "cctld": ".tw"
+        "name": "Taiwan, Province of China"
     },
     {
         "code": "TZ",
-        "name": "Tanzania, United Republic of",
-        "year": 1974,
-        "cctld": ".tz"
+        "name": "Tanzania, United Republic of"
     },
     {
         "code": "UA",
-        "name": "Ukraine",
-        "year": 1974,
-        "cctld": ".tg"
+        "name": "Ukraine"
     },
     {
         "code": "UG",
-        "name": "Uganda",
-        "year": 1974,
-        "cctld": ".ug"
+        "name": "Uganda"
     },
     {
         "code": "UM",
-        "name": "United States Minor Outlying Islands",
-        "year": 1986,
-        "cctld": ".um"
+        "name": "United States Minor Outlying Islands"
     },
     {
         "code": "US",
-        "name": "United States of America",
-        "year": 1974,
-        "cctld": ".us"
+        "name": "United States of America"
     },
     {
         "code": "UY",
-        "name": "Uruguay",
-        "year": 1974,
-        "cctld": ".uy"
+        "name": "Uruguay"
     },
     {
         "code": "UZ",
-        "name": "Uzbekistan",
-        "year": 1992,
-        "cctld": ".uz"
+        "name": "Uzbekistan"
     },
     {
         "code": "VA",
-        "name": "Holy See",
-        "year": 1974,
-        "cctld": ".va"
+        "name": "Holy See"
     },
     {
         "code": "VC",
-        "name": "Saint Vincent and the Grenadines",
-        "year": 1974,
-        "cctld": ".vc"
+        "name": "Saint Vincent and the Grenadines"
     },
     {
         "code": "VE",
-        "name": "Venezuela, Bolivarian Republic of",
-        "year": 1974,
-        "cctld": ".ve"
+        "name": "Venezuela, Bolivarian Republic of"
     },
     {
         "code": "VG",
-        "name": "Virgin Islands, British",
-        "year": 1974,
-        "cctld": ".vg"
+        "name": "Virgin Islands, British"
     },
     {
         "code": "VI",
-        "name": "Virgin Islands, U.S.",
-        "year": 1974,
-        "cctld": ".vi"
+        "name": "Virgin Islands, U.S."
     },
     {
         "code": "VN",
-        "name": "Viet Nam",
-        "year": 1974,
-        "cctld": ".vn"
+        "name": "Viet Nam"
     },
     {
         "code": "VU",
-        "name": "Vanuatu",
-        "year": 1980,
-        "cctld": ".vu"
+        "name": "Vanuatu"
     },
     {
         "code": "WF",
-        "name": "Wallis and Futuna",
-        "year": 1974,
-        "cctld": ".wf"
+        "name": "Wallis and Futuna"
     },
     {
         "code": "WS",
-        "name": "Samoa",
-        "year": 1974,
-        "cctld": ".ws"
+        "name": "Samoa"
     },
     {
         "code": "YE",
-        "name": "Yemen",
-        "year": 1974,
-        "cctld": ".ye"
+        "name": "Yemen"
     },
     {
         "code": "YT",
-        "name": "Mayotte",
-        "year": 1993,
-        "cctld": ".yt"
+        "name": "Mayotte"
     },
     {
         "code": "ZA",
-        "name": "South Africa",
-        "year": 1974,
-        "cctld": ".za"
+        "name": "South Africa"
     },
     {
         "code": "ZM",
-        "name": "Zambia",
-        "year": 1974,
-        "cctld": ".zm"
+        "name": "Zambia"
     },
     {
         "code": "ZW",
-        "name": "Zimbabwe",
-        "year": 1980,
-        "cctld": ".zw"
+        "name": "Zimbabwe"
     }
 ]
