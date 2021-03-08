@@ -1,1 +1,1 @@
-# iso-3166-1-alpha-2.json
+# iso-3166-1-alpha-2
