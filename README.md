@@ -5,6 +5,24 @@ ISO 3166-1 alpha-2 are two-letter country codes that represent countries. In thi
 ## Languages
 JSON, PHP, Python
 
+## Example (in JSON)
+```
+...
+{
+    "code": "CF",
+    "name": "Central African Republic"
+},
+{
+    "code": "CG",
+    "name": "Congo"
+},
+{
+    "code": "CH",
+    "name": "Switzerland"
+},
+...
+```
+
 ## Sources
 The data is based on [this Wikipedia page](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2).
 
