@@ -1,5 +1,7 @@
 # ISO 3166-1 alpha-2 codes
 
+ISO 3166-1 alpha-2 are two-letter country codes that represent countries. In this repository, you will find the two letter codes paired with their respective complete country names in various programming languages. 
+
 ## Languages and formats
 JSON, PHP, Python
 
