@@ -7,20 +7,25 @@ JSON, PHP, Python
 
 ## Example (in JSON)
 ```
-...
-{
-    "code": "CF",
-    "name": "Central African Republic"
-},
-{
-    "code": "CG",
-    "name": "Congo"
-},
-{
-    "code": "CH",
-    "name": "Switzerland"
-},
-...
+[
+    {
+        "code": "AD",
+        "name": "Andorra"
+    },
+    {
+        "code": "AE",
+        "name": "United Arab Emirates"
+    },
+    {
+        "code": "AF",
+        "name": "Afghanistan"
+    },
+    {
+        "code": "AG",
+        "name": "Antigua and Barbuda"
+    },
+    ...
+]
 ```
 
 ## Sources
