@@ -9,4 +9,4 @@ JSON, PHP, Python
 The data is based on [this Wikipedia page](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2).
 
 ## Support
-You can use [this link](https://www.buymeacoffee.com/samuelryc) to support me. Thank you!
+Found that useful? You can use [this link](https://www.buymeacoffee.com/samuelryc) to support me. Thank you!
