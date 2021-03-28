@@ -6,7 +6,7 @@ ISO 3166-1 alpha-2 are two-letter country codes that represent countries. In thi
 * JSON
 * PHP
 * Python
-* MySQL (work in progress)
+* SQL (work in progress)
 
 ## Example (in JSON)
 ```
@@ -32,7 +32,7 @@ ISO 3166-1 alpha-2 are two-letter country codes that represent countries. In thi
 ```
 
 ## Sources
-The data is based on [this Wikipedia page](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2).
+The data is based on [this page](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2).
 
 ## Support
 Found that useful? You can use [this link](https://www.buymeacoffee.com/samuelryc) to support me. Thank you!
