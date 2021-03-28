@@ -12,19 +12,19 @@ ISO 3166-1 alpha-2 are two-letter country codes that represent countries. In thi
 [
     {
         "code": "AD",
-        "name": "Andorra"
+        "country": "Andorra"
     },
     {
         "code": "AE",
-        "name": "United Arab Emirates"
+        "country": "United Arab Emirates"
     },
     {
         "code": "AF",
-        "name": "Afghanistan"
+        "country": "Afghanistan"
     },
     {
         "code": "AG",
-        "name": "Antigua and Barbuda"
+        "country": "Antigua and Barbuda"
     },
     ...
 ]
