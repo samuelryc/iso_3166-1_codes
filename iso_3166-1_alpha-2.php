@@ -3,998 +3,998 @@
 $iso_3166_1_alpha_2 = [
     [
         "code" => "AD",
-        "name" => "Andorra"
+        "country" => "Andorra"
     ],
     [
         "code" => "AE",
-        "name" => "United Arab Emirates"
+        "country" => "United Arab Emirates"
     ],
     [
         "code" => "AF",
-        "name" => "Afghanistan"
+        "country" => "Afghanistan"
     ],
     [
         "code" => "AG",
-        "name" => "Antigua and Barbuda"
+        "country" => "Antigua and Barbuda"
     ],
     [
         "code" => "AI",
-        "name" => "Anguilla"
+        "country" => "Anguilla"
     ],
     [
         "code" => "AL",
-        "name" => "Albania"
+        "country" => "Albania"
     ],
     [
         "code" => "AM",
-        "name" => "Armenia"
+        "country" => "Armenia"
     ],
     [
         "code" => "AO",
-        "name" => "Angola"
+        "country" => "Angola"
     ],
     [
         "code" => "AQ",
-        "name" => "Antarctica"
+        "country" => "Antarctica"
     ],
     [
         "code" => "AR",
-        "name" => "Argentina"
+        "country" => "Argentina"
     ],
     [
         "code" => "AS",
-        "name" => "American Samoa"
+        "country" => "American Samoa"
     ],
     [
         "code" => "AT",
-        "name" => "Austria"
+        "country" => "Austria"
     ],
     [
         "code" => "AU",
-        "name" => "Australia"
+        "country" => "Australia"
     ],
     [
         "code" => "AW",
-        "name" => "Aruba"
+        "country" => "Aruba"
     ],
     [
         "code" => "AX",
-        "name" => "Åland Islands"
+        "country" => "Åland Islands"
     ],
     [
         "code" => "AZ",
-        "name" => "Azerbaijan"
+        "country" => "Azerbaijan"
     ],
     [
         "code" => "BA",
-        "name" => "Bosnia and Herzegovina"
+        "country" => "Bosnia and Herzegovina"
     ],
     [
         "code" => "BB",
-        "name" => "Barbados"
+        "country" => "Barbados"
     ],
     [
         "code" => "BD",
-        "name" => "Bangladesh"
+        "country" => "Bangladesh"
     ],
     [
         "code" => "BE",
-        "name" => "Belgium"
+        "country" => "Belgium"
     ],
     [
         "code" => "BF",
-        "name" => "Burkina Faso"
+        "country" => "Burkina Faso"
     ],
     [
         "code" => "BG",
-        "name" => "Bulgaria"
+        "country" => "Bulgaria"
     ],
     [
         "code" => "BH",
-        "name" => "Bahrain"
+        "country" => "Bahrain"
     ],
     [
         "code" => "BI",
-        "name" => "Burundi"
+        "country" => "Burundi"
     ],
     [
         "code" => "BJ",
-        "name" => "Benin"
+        "country" => "Benin"
     ],
     [
         "code" => "BL",
-        "name" => "Saint Barthélemy"
+        "country" => "Saint Barthélemy"
     ],
     [
         "code" => "BM",
-        "name" => "Bermuda"
+        "country" => "Bermuda"
     ],
     [
         "code" => "BN",
-        "name" => "Brunei Darussalam"
+        "country" => "Brunei Darussalam"
     ],
     [
         "code" => "BO",
-        "name" => "Bolivia, Plurinational State of"
+        "country" => "Bolivia, Plurinational State of"
     ],
     [
         "code" => "BQ",
-        "name" => "Bonaire, Sint Eustatius and Saba"
+        "country" => "Bonaire, Sint Eustatius and Saba"
     ],
     [
         "code" => "BR",
-        "name" => "Brazil"
+        "country" => "Brazil"
     ],
     [
         "code" => "BS",
-        "name" => "Bahamas"
+        "country" => "Bahamas"
     ],
     [
         "code" => "BT",
-        "name" => "Bhutan"
+        "country" => "Bhutan"
     ],
     [
         "code" => "BV",
-        "name" => "Bouvet Island"
+        "country" => "Bouvet Island"
     ],
     [
         "code" => "BW",
-        "name" => "Botswana"
+        "country" => "Botswana"
     ],
     [
         "code" => "BY",
-        "name" => "Belarus"
+        "country" => "Belarus"
     ],
     [
         "code" => "BZ",
-        "name" => "Belize"
+        "country" => "Belize"
     ],
     [
         "code" => "CA",
-        "name" => "Canada"
+        "country" => "Canada"
     ],
     [
         "code" => "CC",
-        "name" => "Cocos (Keeling) Islands"
+        "country" => "Cocos (Keeling) Islands"
     ],
     [
         "code" => "CD",
-        "name" => "Congo, Democratic Republic of the"
+        "country" => "Congo, Democratic Republic of the"
     ],
     [
         "code" => "CF",
-        "name" => "Central African Republic"
+        "country" => "Central African Republic"
     ],
     [
         "code" => "CG",
-        "name" => "Congo"
+        "country" => "Congo"
     ],
     [
         "code" => "CH",
-        "name" => "Switzerland"
+        "country" => "Switzerland"
     ],
     [
         "code" => "CI",
-        "name" => "Côte d'Ivoire"
+        "country" => "Côte d'Ivoire"
     ],
     [
         "code" => "CK",
-        "name" => "Cook Islands"
+        "country" => "Cook Islands"
     ],
     [
         "code" => "CL",
-        "name" => "Chile"
+        "country" => "Chile"
     ],
     [
         "code" => "CM",
-        "name" => "Cameroon"
+        "country" => "Cameroon"
     ],
     [
         "code" => "CN",
-        "name" => "China"
+        "country" => "China"
     ],
     [
         "code" => "CO",
-        "name" => "Colombia"
+        "country" => "Colombia"
     ],
     [
         "code" => "CR",
-        "name" => "Costa Rica"
+        "country" => "Costa Rica"
     ],
     [
         "code" => "CU",
-        "name" => "Cuba"
+        "country" => "Cuba"
     ],
     [
         "code" => "CV",
-        "name" => "Cabo Verde"
+        "country" => "Cabo Verde"
     ],
     [
         "code" => "CW",
-        "name" => "Curaçao"
+        "country" => "Curaçao"
     ],
     [
         "code" => "CX",
-        "name" => "Christmas Island"
+        "country" => "Christmas Island"
     ],
     [
         "code" => "CY",
-        "name" => "Cyprus"
+        "country" => "Cyprus"
     ],
     [
         "code" => "CZ",
-        "name" => "Czechia"
+        "country" => "Czechia"
     ],
     [
         "code" => "DE",
-        "name" => "Germany"
+        "country" => "Germany"
     ],
     [
         "code" => "DJ",
-        "name" => "Djibouti"
+        "country" => "Djibouti"
     ],
     [
         "code" => "DK",
-        "name" => "Denmark"
+        "country" => "Denmark"
     ],
     [
         "code" => "DM",
-        "name" => "Dominica"
+        "country" => "Dominica"
     ],
     [
         "code" => "DO",
-        "name" => "Dominican Republic"
+        "country" => "Dominican Republic"
     ],
     [
         "code" => "DZ",
-        "name" => "Algeria"
+        "country" => "Algeria"
     ],
     [
         "code" => "EC",
-        "name" => "Ecuador"
+        "country" => "Ecuador"
     ],
     [
         "code" => "EE",
-        "name" => "Estonia"
+        "country" => "Estonia"
     ],
     [
         "code" => "EG",
-        "name" => "Egypt"
+        "country" => "Egypt"
     ],
     [
         "code" => "EH",
-        "name" => "Western Sahara"
+        "country" => "Western Sahara"
     ],
     [
         "code" => "ER",
-        "name" => "Eritrea"
+        "country" => "Eritrea"
     ],
     [
         "code" => "ES",
-        "name" => "Spain"
+        "country" => "Spain"
     ],
     [
         "code" => "ET",
-        "name" => "Ethiopia"
+        "country" => "Ethiopia"
     ],
     [
         "code" => "FI",
-        "name" => "Finland"
+        "country" => "Finland"
     ],
     [
         "code" => "FJ",
-        "name" => "Fiji"
+        "country" => "Fiji"
     ],
     [
         "code" => "FK",
-        "name" => "Falkland Islands (Malvinas)"
+        "country" => "Falkland Islands (Malvinas)"
     ],
     [
         "code" => "FM",
-        "name" => "Micronesia, Federated States of"
+        "country" => "Micronesia, Federated States of"
     ],
     [
         "code" => "FO",
-        "name" => "Faroe Islands"
+        "country" => "Faroe Islands"
     ],
     [
         "code" => "FR",
-        "name" => "France"
+        "country" => "France"
     ],
     [
         "code" => "GA",
-        "name" => "Gabon"
+        "country" => "Gabon"
     ],
     [
         "code" => "GB",
-        "name" => "United Kingdom of Great Britain and Northern Ireland"
+        "country" => "United Kingdom of Great Britain and Northern Ireland"
     ],
     [
         "code" => "GD",
-        "name" => "Grenada"
+        "country" => "Grenada"
     ],
     [
         "code" => "GE",
-        "name" => "Georgia"
+        "country" => "Georgia"
     ],
     [
         "code" => "GF",
-        "name" => "French Guiana"
+        "country" => "French Guiana"
     ],
     [
         "code" => "GG",
-        "name" => "Guernsey"
+        "country" => "Guernsey"
     ],
     [
         "code" => "GH",
-        "name" => "Ghana"
+        "country" => "Ghana"
     ],
     [
         "code" => "GI",
-        "name" => "Gibraltar"
+        "country" => "Gibraltar"
     ],
     [
         "code" => "GL",
-        "name" => "Greenland"
+        "country" => "Greenland"
     ],
     [
         "code" => "GM",
-        "name" => "Gambia"
+        "country" => "Gambia"
     ],
     [
         "code" => "GN",
-        "name" => "Guinea"
+        "country" => "Guinea"
     ],
     [
         "code" => "GP",
-        "name" => "Guadeloupe"
+        "country" => "Guadeloupe"
     ],
     [
         "code" => "GQ",
-        "name" => "Equatorial Guinea"
+        "country" => "Equatorial Guinea"
     ],
     [
         "code" => "GR",
-        "name" => "Greece"
+        "country" => "Greece"
     ],
     [
         "code" => "GS",
-        "name" => "South Georgia and the South Sandwich Islands"
+        "country" => "South Georgia and the South Sandwich Islands"
     ],
     [
         "code" => "GT",
-        "name" => "Guatemala"
+        "country" => "Guatemala"
     ],
     [
         "code" => "GU",
-        "name" => "Guam"
+        "country" => "Guam"
     ],
     [
         "code" => "GW",
-        "name" => "Guinea-Bissau"
+        "country" => "Guinea-Bissau"
     ],
     [
         "code" => "GY",
-        "name" => "Guyana"
+        "country" => "Guyana"
     ],
     [
         "code" => "HK",
-        "name" => "Hong Kong"
+        "country" => "Hong Kong"
     ],
     [
         "code" => "HM",
-        "name" => "Heard Island and McDonald Islands"
+        "country" => "Heard Island and McDonald Islands"
     ],
     [
         "code" => "HN",
-        "name" => "Honduras"
+        "country" => "Honduras"
     ],
     [
         "code" => "HR",
-        "name" => "Croatia"
+        "country" => "Croatia"
     ],
     [
         "code" => "HT",
-        "name" => "Haiti"
+        "country" => "Haiti"
     ],
     [
         "code" => "HU",
-        "name" => "Hungary"
+        "country" => "Hungary"
     ],
     [
         "code" => "ID",
-        "name" => "Indonesia"
+        "country" => "Indonesia"
     ],
     [
         "code" => "IE",
-        "name" => "Ireland"
+        "country" => "Ireland"
     ],
     [
         "code" => "IL",
-        "name" => "Israel"
+        "country" => "Israel"
     ],
     [
         "code" => "IM",
-        "name" => "Isle of Man"
+        "country" => "Isle of Man"
     ],
     [
         "code" => "IN",
-        "name" => "India"
+        "country" => "India"
     ],
     [
         "code" => "IO",
-        "name" => "British Indian Ocean Territory"
+        "country" => "British Indian Ocean Territory"
     ],
     [
         "code" => "IQ",
-        "name" => "Iraq"
+        "country" => "Iraq"
     ],
     [
         "code" => "IR",
-        "name" => "Iran, Islamic Republic of"
+        "country" => "Iran, Islamic Republic of"
     ],
     [
         "code" => "IS",
-        "name" => "Iceland"
+        "country" => "Iceland"
     ],
     [
         "code" => "IT",
-        "name" => "Italy"
+        "country" => "Italy"
     ],
     [
         "code" => "JE",
-        "name" => "Jersey"
+        "country" => "Jersey"
     ],
     [
         "code" => "JM",
-        "name" => "Jamaica"
+        "country" => "Jamaica"
     ],
     [
         "code" => "JO",
-        "name" => "Jordan"
+        "country" => "Jordan"
     ],
     [
         "code" => "JP",
-        "name" => "Japan"
+        "country" => "Japan"
     ],
     [
         "code" => "KE",
-        "name" => "Kenya"
+        "country" => "Kenya"
     ],
     [
         "code" => "KG",
-        "name" => "Kyrgyzstan"
+        "country" => "Kyrgyzstan"
     ],
     [
         "code" => "KH",
-        "name" => "Cambodia"
+        "country" => "Cambodia"
     ],
     [
         "code" => "KI",
-        "name" => "Kiribati"
+        "country" => "Kiribati"
     ],
     [
         "code" => "KM",
-        "name" => "Comoros"
+        "country" => "Comoros"
     ],
     [
         "code" => "KN",
-        "name" => "Saint Kitts and Nevis"
+        "country" => "Saint Kitts and Nevis"
     ],
     [
         "code" => "KP",
-        "name" => "Korea, Democratic People's Republic of"
+        "country" => "Korea, Democratic People's Republic of"
     ],
     [
         "code" => "KR",
-        "name" => "Korea, Republic of"
+        "country" => "Korea, Republic of"
     ],
     [
         "code" => "KW",
-        "name" => "Kuwait"
+        "country" => "Kuwait"
     ],
     [
         "code" => "KY",
-        "name" => "Cayman Islands"
+        "country" => "Cayman Islands"
     ],
     [
         "code" => "KZ",
-        "name" => "Kazakhstan"
+        "country" => "Kazakhstan"
     ],
     [
         "code" => "LA",
-        "name" => "Lao People's Democratic Republic"
+        "country" => "Lao People's Democratic Republic"
     ],
     [
         "code" => "LB",
-        "name" => "Lebanon"
+        "country" => "Lebanon"
     ],
     [
         "code" => "LC",
-        "name" => "Saint Lucia"
+        "country" => "Saint Lucia"
     ],
     [
         "code" => "LI",
-        "name" => "Liechtenstein"
+        "country" => "Liechtenstein"
     ],
     [
         "code" => "LK",
-        "name" => "Sri Lanka"
+        "country" => "Sri Lanka"
     ],
     [
         "code" => "LR",
-        "name" => "Liberia"
+        "country" => "Liberia"
     ],
     [
         "code" => "LS",
-        "name" => "Lesotho"
+        "country" => "Lesotho"
     ],
     [
         "code" => "LT",
-        "name" => "Lithuania"
+        "country" => "Lithuania"
     ],
     [
         "code" => "LU",
-        "name" => "Luxembourg"
+        "country" => "Luxembourg"
     ],
     [
         "code" => "LV",
-        "name" => "Latvia"
+        "country" => "Latvia"
     ],
     [
         "code" => "LY",
-        "name" => "Libya"
+        "country" => "Libya"
     ],
     [
         "code" => "MA",
-        "name" => "Morocco"
+        "country" => "Morocco"
     ],
     [
         "code" => "MC",
-        "name" => "Monaco"
+        "country" => "Monaco"
     ],
     [
         "code" => "MD",
-        "name" => "Moldova, Republic of"
+        "country" => "Moldova, Republic of"
     ],
     [
         "code" => "ME",
-        "name" => "Montenegro"
+        "country" => "Montenegro"
     ],
     [
         "code" => "MF",
-        "name" => "Saint Martin, (French part)"
+        "country" => "Saint Martin, (French part)"
     ],
     [
         "code" => "MG",
-        "name" => "Madagascar"
+        "country" => "Madagascar"
     ],
     [
         "code" => "MH",
-        "name" => "Marshall Islands"
+        "country" => "Marshall Islands"
     ],
     [
         "code" => "MK",
-        "name" => "North Macedonia"
+        "country" => "North Macedonia"
     ],
     [
         "code" => "ML",
-        "name" => "Mali"
+        "country" => "Mali"
     ],
     [
         "code" => "MM",
-        "name" => "Myanmar"
+        "country" => "Myanmar"
     ],
     [
         "code" => "MN",
-        "name" => "Mongolia"
+        "country" => "Mongolia"
     ],
     [
         "code" => "MO",
-        "name" => "Macao"
+        "country" => "Macao"
     ],
     [
         "code" => "MP",
-        "name" => "Northern Mariana Islands"
+        "country" => "Northern Mariana Islands"
     ],
     [
         "code" => "MQ",
-        "name" => "Martinique"
+        "country" => "Martinique"
     ],
     [
         "code" => "MR",
-        "name" => "Mauritania"
+        "country" => "Mauritania"
     ],
     [
         "code" => "MS",
-        "name" => "Montserrat"
+        "country" => "Montserrat"
     ],
     [
         "code" => "MT",
-        "name" => "Malta"
+        "country" => "Malta"
     ],
     [
         "code" => "MU",
-        "name" => "Mauritius"
+        "country" => "Mauritius"
     ],
     [
         "code" => "MV",
-        "name" => "Maldives"
+        "country" => "Maldives"
     ],
     [
         "code" => "MW",
-        "name" => "Malawi"
+        "country" => "Malawi"
     ],
     [
         "code" => "MX",
-        "name" => "Mexico"
+        "country" => "Mexico"
     ],
     [
         "code" => "MY",
-        "name" => "Malaysia"
+        "country" => "Malaysia"
     ],
     [
         "code" => "MZ",
-        "name" => "Mozambique"
+        "country" => "Mozambique"
     ],
     [
         "code" => "NA",
-        "name" => "Namibia"
+        "country" => "Namibia"
     ],
     [
         "code" => "NC",
-        "name" => "New Caledonia"
+        "country" => "New Caledonia"
     ],
     [
         "code" => "NE",
-        "name" => "Niger"
+        "country" => "Niger"
     ],
     [
         "code" => "NF",
-        "name" => "Norfolk Island"
+        "country" => "Norfolk Island"
     ],
     [
         "code" => "NG",
-        "name" => "Nigeria"
+        "country" => "Nigeria"
     ],
     [
         "code" => "NI",
-        "name" => "Nicaragua"
+        "country" => "Nicaragua"
     ],
     [
         "code" => "NL",
-        "name" => "Netherlands"
+        "country" => "Netherlands"
     ],
     [
         "code" => "NO",
-        "name" => "Norway"
+        "country" => "Norway"
     ],
     [
         "code" => "NP",
-        "name" => "Nepal"
+        "country" => "Nepal"
     ],
     [
         "code" => "NR",
-        "name" => "Nauru"
+        "country" => "Nauru"
     ],
     [
         "code" => "NU",
-        "name" => "Niue"
+        "country" => "Niue"
     ],
     [
         "code" => "NZ",
-        "name" => "New Zealand"
+        "country" => "New Zealand"
     ],
     [
         "code" => "OM",
-        "name" => "Oman"
+        "country" => "Oman"
     ],
     [
         "code" => "PA",
-        "name" => "Panama"
+        "country" => "Panama"
     ],
     [
         "code" => "PE",
-        "name" => "Peru"
+        "country" => "Peru"
     ],
     [
         "code" => "PF",
-        "name" => "French Polynesia"
+        "country" => "French Polynesia"
     ],
     [
         "code" => "PG",
-        "name" => "Papua New Guinea"
+        "country" => "Papua New Guinea"
     ],
     [
         "code" => "PH",
-        "name" => "Philippines"
+        "country" => "Philippines"
     ],
     [
         "code" => "PK",
-        "name" => "Pakistan"
+        "country" => "Pakistan"
     ],
     [
         "code" => "PL",
-        "name" => "Poland"
+        "country" => "Poland"
     ],
     [
         "code" => "PM",
-        "name" => "Saint Pierre and Miquelon"
+        "country" => "Saint Pierre and Miquelon"
     ],
     [
         "code" => "PN",
-        "name" => "Pitcairn"
+        "country" => "Pitcairn"
     ],
     [
         "code" => "PR",
-        "name" => "Puerto Rico"
+        "country" => "Puerto Rico"
     ],
     [
         "code" => "PS",
-        "name" => "Palestine, State of"
+        "country" => "Palestine, State of"
     ],
     [
         "code" => "PT",
-        "name" => "Portugal"
+        "country" => "Portugal"
     ],
     [
         "code" => "PW",
-        "name" => "Palau"
+        "country" => "Palau"
     ],
     [
         "code" => "PY",
-        "name" => "Paraguay"
+        "country" => "Paraguay"
     ],
     [
         "code" => "QA",
-        "name" => "Qatar"
+        "country" => "Qatar"
     ],
     [
         "code" => "RE",
-        "name" => "Réunion"
+        "country" => "Réunion"
     ],
     [
         "code" => "RO",
-        "name" => "Romania"
+        "country" => "Romania"
     ],
     [
         "code" => "RS",
-        "name" => "Serbia"
+        "country" => "Serbia"
     ],
     [
         "code" => "RU",
-        "name" => "Russian Federation"
+        "country" => "Russian Federation"
     ],
     [
         "code" => "RW",
-        "name" => "Rwanda"
+        "country" => "Rwanda"
     ],
     [
         "code" => "SA",
-        "name" => "Saudi Arabia"
+        "country" => "Saudi Arabia"
     ],
     [
         "code" => "SB",
-        "name" => "Solomon Islands"
+        "country" => "Solomon Islands"
     ],
     [
         "code" => "SC",
-        "name" => "Seychelles"
+        "country" => "Seychelles"
     ],
     [
         "code" => "SD",
-        "name" => "Sudan"
+        "country" => "Sudan"
     ],
     [
         "code" => "SE",
-        "name" => "Sweden"
+        "country" => "Sweden"
     ],
     [
         "code" => "SG",
-        "name" => "Singapore"
+        "country" => "Singapore"
     ],
     [
         "code" => "SH",
-        "name" => "Saint Helena, Ascension and Tristan da Cunha"
+        "country" => "Saint Helena, Ascension and Tristan da Cunha"
     ],
     [
         "code" => "SI",
-        "name" => "Slovenia"
+        "country" => "Slovenia"
     ],
     [
         "code" => "SJ",
-        "name" => "Svalbard and Jan Mayen"
+        "country" => "Svalbard and Jan Mayen"
     ],
     [
         "code" => "SK",
-        "name" => "Slovakia"
+        "country" => "Slovakia"
     ],
     [
         "code" => "SL",
-        "name" => "Sierra Leone"
+        "country" => "Sierra Leone"
     ],
     [
         "code" => "SM",
-        "name" => "San Marino"
+        "country" => "San Marino"
     ],
     [
         "code" => "SN",
-        "name" => "Senegal"
+        "country" => "Senegal"
     ],
     [
         "code" => "SO",
-        "name" => "Somalia"
+        "country" => "Somalia"
     ],
     [
         "code" => "SR",
-        "name" => "Suriname"
+        "country" => "Suricountry"
     ],
     [
         "code" => "SS",
-        "name" => "South Sudan"
+        "country" => "South Sudan"
     ],
     [
         "code" => "ST",
-        "name" => "Sao Tome and Principe"
+        "country" => "Sao Tome and Principe"
     ],
     [
         "code" => "SV",
-        "name" => "El Salvador"
+        "country" => "El Salvador"
     ],
     [
         "code" => "SX",
-        "name" => "Sint Maarten, (Dutch part)"
+        "country" => "Sint Maarten, (Dutch part)"
     ],
     [
         "code" => "SY",
-        "name" => "Syrian Arab Republic"
+        "country" => "Syrian Arab Republic"
     ],
     [
         "code" => "SZ",
-        "name" => "Eswatini"
+        "country" => "Eswatini"
     ],
     [
         "code" => "TC",
-        "name" => "Turks and Caicos Islands"
+        "country" => "Turks and Caicos Islands"
     ],
     [
         "code" => "TD",
-        "name" => "Chad"
+        "country" => "Chad"
     ],
     [
         "code" => "TF",
-        "name" => "French Southern Territories"
+        "country" => "French Southern Territories"
     ],
     [
         "code" => "TG",
-        "name" => "Togo"
+        "country" => "Togo"
     ],
     [
         "code" => "TH",
-        "name" => "Thailand"
+        "country" => "Thailand"
     ],
     [
         "code" => "TJ",
-        "name" => "Tajikistan"
+        "country" => "Tajikistan"
     ],
     [
         "code" => "TK",
-        "name" => "Tokelau"
+        "country" => "Tokelau"
     ],
     [
         "code" => "TL",
-        "name" => "Timor-Leste"
+        "country" => "Timor-Leste"
     ],
     [
         "code" => "TM",
-        "name" => "Turkmenistan"
+        "country" => "Turkmenistan"
     ],
     [
         "code" => "TN",
-        "name" => "Tunisia"
+        "country" => "Tunisia"
     ],
     [
         "code" => "TO",
-        "name" => "Tonga"
+        "country" => "Tonga"
     ],
     [
         "code" => "TR",
-        "name" => "Turkey"
+        "country" => "Turkey"
     ],
     [
         "code" => "TT",
-        "name" => "Trinidad and Tobago"
+        "country" => "Trinidad and Tobago"
     ],
     [
         "code" => "TV",
-        "name" => "Tuvalu"
+        "country" => "Tuvalu"
     ],
     [
         "code" => "TW",
-        "name" => "Taiwan, Province of China"
+        "country" => "Taiwan, Province of China"
     ],
     [
         "code" => "TZ",
-        "name" => "Tanzania, United Republic of"
+        "country" => "Tanzania, United Republic of"
     ],
     [
         "code" => "UA",
-        "name" => "Ukraine"
+        "country" => "Ukraine"
     ],
     [
         "code" => "UG",
-        "name" => "Uganda"
+        "country" => "Uganda"
     ],
     [
         "code" => "UM",
-        "name" => "United States Minor Outlying Islands"
+        "country" => "United States Minor Outlying Islands"
     ],
     [
         "code" => "US",
-        "name" => "United States of America"
+        "country" => "United States of America"
     ],
     [
         "code" => "UY",
-        "name" => "Uruguay"
+        "country" => "Uruguay"
     ],
     [
         "code" => "UZ",
-        "name" => "Uzbekistan"
+        "country" => "Uzbekistan"
     ],
     [
         "code" => "VA",
-        "name" => "Holy See"
+        "country" => "Holy See"
     ],
     [
         "code" => "VC",
-        "name" => "Saint Vincent and the Grenadines"
+        "country" => "Saint Vincent and the Grenadines"
     ],
     [
         "code" => "VE",
-        "name" => "Venezuela, Bolivarian Republic of"
+        "country" => "Venezuela, Bolivarian Republic of"
     ],
     [
         "code" => "VG",
-        "name" => "Virgin Islands, British"
+        "country" => "Virgin Islands, British"
     ],
     [
         "code" => "VI",
-        "name" => "Virgin Islands, U.S."
+        "country" => "Virgin Islands, U.S."
     ],
     [
         "code" => "VN",
-        "name" => "Viet Nam"
+        "country" => "Viet Nam"
     ],
     [
         "code" => "VU",
-        "name" => "Vanuatu"
+        "country" => "Vanuatu"
     ],
     [
         "code" => "WF",
-        "name" => "Wallis and Futuna"
+        "country" => "Wallis and Futuna"
     ],
     [
         "code" => "WS",
-        "name" => "Samoa"
+        "country" => "Samoa"
     ],
     [
         "code" => "YE",
-        "name" => "Yemen"
+        "country" => "Yemen"
     ],
     [
         "code" => "YT",
-        "name" => "Mayotte"
+        "country" => "Mayotte"
     ],
     [
         "code" => "ZA",
-        "name" => "South Africa"
+        "country" => "South Africa"
     ],
     [
         "code" => "ZM",
-        "name" => "Zambia"
+        "country" => "Zambia"
     ],
     [
         "code" => "ZW",
-        "name" => "Zimbabwe"
+        "country" => "Zimbabwe"
     ]
 ];
