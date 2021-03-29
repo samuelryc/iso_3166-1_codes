@@ -1,7 +1,7 @@
 CREATE TABLE IF NOT EXISTS two-letter_country_codes (
     id SMALLINT NOT NULL,
     code VARCHAR(2) NOT NULL,
-    country VARCHAR(40) NOT NULL
+    country VARCHAR(52) NOT NULL
     PRIMARY KEY (id)
 );
 
@@ -71,3 +71,59 @@ INSERT INTO two-letter_country_codes(id, code, country) VALUES (233, 'EE', 'Esto
 INSERT INTO two-letter_country_codes(id, code, country) VALUES (818, 'EG', 'Egypt');
 INSERT INTO two-letter_country_codes(id, code, country) VALUES (732, 'EH', 'Western Sahara');
 INSERT INTO two-letter_country_codes(id, code, country) VALUES (232, 'ER', 'Eritrea');
+INSERT INTO two-letter_country_codes(id, code, country) VALUES (724, 'ES', 'Spain');
+INSERT INTO two-letter_country_codes(id, code, country) VALUES (231, 'ET', 'Ethiopia');
+INSERT INTO two-letter_country_codes(id, code, country) VALUES (246, 'FI', 'Finland');
+INSERT INTO two-letter_country_codes(id, code, country) VALUES (242, 'FI', 'Fiji');
+INSERT INTO two-letter_country_codes(id, code, country) VALUES (238, 'FK', 'Falkland Islands (Malvinas)');
+INSERT INTO two-letter_country_codes(id, code, country) VALUES (583, 'FM', 'Micronesia, Federated States of');
+INSERT INTO two-letter_country_codes(id, code, country) VALUES (234, 'FO', 'Faroe Islands');
+INSERT INTO two-letter_country_codes(id, code, country) VALUES (250, 'FR', 'France');
+INSERT INTO two-letter_country_codes(id, code, country) VALUES (266, 'GA', 'Gabon');
+INSERT INTO two-letter_country_codes(id, code, country) VALUES (826, 'GB', 'United Kingdom of Great Britain and Northern Ireland');
+INSERT INTO two-letter_country_codes(id, code, country) VALUES (308, 'GD', 'Grenada');
+INSERT INTO two-letter_country_codes(id, code, country) VALUES (268, 'GE', 'Georgia');
+INSERT INTO two-letter_country_codes(id, code, country) VALUES (254, 'GF', 'French Guiana');
+INSERT INTO two-letter_country_codes(id, code, country) VALUES (831, 'GG', 'Guernsey');
+INSERT INTO two-letter_country_codes(id, code, country) VALUES (288, 'GH', 'Ghana');
+INSERT INTO two-letter_country_codes(id, code, country) VALUES (292, 'GI', 'Gibraltar');
+INSERT INTO two-letter_country_codes(id, code, country) VALUES (304, 'GL', 'Greenland');
+INSERT INTO two-letter_country_codes(id, code, country) VALUES (270, 'GM', 'Gambia');
+INSERT INTO two-letter_country_codes(id, code, country) VALUES (324, 'GN', 'Guinea');
+INSERT INTO two-letter_country_codes(id, code, country) VALUES (312, 'GP', 'Guadeloupe');
+INSERT INTO two-letter_country_codes(id, code, country) VALUES (226, 'GQ', 'Equatorial Guinea');
+INSERT INTO two-letter_country_codes(id, code, country) VALUES (300, 'GR', 'Greece');
+INSERT INTO two-letter_country_codes(id, code, country) VALUES (239, 'GS', 'South Georgia and the South Sandwich Islands');
+INSERT INTO two-letter_country_codes(id, code, country) VALUES (320, 'GT', 'Guatemala');
+INSERT INTO two-letter_country_codes(id, code, country) VALUES (316, 'GU', 'Guam');
+INSERT INTO two-letter_country_codes(id, code, country) VALUES (624, 'GW', 'Guinea-Bissau');
+INSERT INTO two-letter_country_codes(id, code, country) VALUES (328, 'GY', 'Guyana');
+INSERT INTO two-letter_country_codes(id, code, country) VALUES (344, 'HK', 'Hong Kong');
+INSERT INTO two-letter_country_codes(id, code, country) VALUES (334, 'HM', 'Heard Island and McDonald Islands');
+INSERT INTO two-letter_country_codes(id, code, country) VALUES (340, 'HN', 'Honduras');
+INSERT INTO two-letter_country_codes(id, code, country) VALUES (191, 'HR', 'Croatia');
+INSERT INTO two-letter_country_codes(id, code, country) VALUES (332, 'HT', 'Haiti');
+INSERT INTO two-letter_country_codes(id, code, country) VALUES (348, 'HU', 'Hungary');
+INSERT INTO two-letter_country_codes(id, code, country) VALUES (360, 'ID', 'Indonesia');
+INSERT INTO two-letter_country_codes(id, code, country) VALUES (372, 'IE', 'Ireland');
+INSERT INTO two-letter_country_codes(id, code, country) VALUES (376, 'IL', 'Israel');
+INSERT INTO two-letter_country_codes(id, code, country) VALUES (833, 'IM', 'Isle of Man');
+INSERT INTO two-letter_country_codes(id, code, country) VALUES (356, 'IN', 'India');
+INSERT INTO two-letter_country_codes(id, code, country) VALUES (86, 'IO', 'British Indian Ocean Territory');
+INSERT INTO two-letter_country_codes(id, code, country) VALUES (368, 'IQ', 'Iraq');
+INSERT INTO two-letter_country_codes(id, code, country) VALUES (364, 'IR', 'Iran, Islamic Republic of');
+INSERT INTO two-letter_country_codes(id, code, country) VALUES (352, 'IS', 'Iceland');
+INSERT INTO two-letter_country_codes(id, code, country) VALUES (380, 'IT', 'Italy');
+INSERT INTO two-letter_country_codes(id, code, country) VALUES (832, 'JE', 'Jersey');
+INSERT INTO two-letter_country_codes(id, code, country) VALUES (388, 'JM', 'Jamaica');
+INSERT INTO two-letter_country_codes(id, code, country) VALUES (400, 'JO', 'Jordan');
+INSERT INTO two-letter_country_codes(id, code, country) VALUES (392, 'JP', 'Japan');
+INSERT INTO two-letter_country_codes(id, code, country) VALUES (404, 'KE', 'Kenya');
+INSERT INTO two-letter_country_codes(id, code, country) VALUES (417, 'KG', 'Kyrgyzstan');
+INSERT INTO two-letter_country_codes(id, code, country) VALUES (116, 'KH', 'Cambodia');
+INSERT INTO two-letter_country_codes(id, code, country) VALUES (296, 'KI', 'Kiribati');
+INSERT INTO two-letter_country_codes(id, code, country) VALUES (174, 'KM', 'Comoros');
+INSERT INTO two-letter_country_codes(id, code, country) VALUES (659, 'KN', 'Saint Kitts and Nevis');
+INSERT INTO two-letter_country_codes(id, code, country) VALUES (408, 'KP', 'Korea, Democratic People''s Republic of');
+INSERT INTO two-letter_country_codes(id, code, country) VALUES (410, 'KR', 'Korea, Republic of');
+INSERT INTO two-letter_country_codes(id, code, country) VALUES (414, 'KW', 'Kuwait');
