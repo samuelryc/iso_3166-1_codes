@@ -1,6 +1,6 @@
 <?php
 
-$iso_3166_1_alpha_2 = [
+$country_codes = [
     [
         "code" => "AD",
         "country" => "Andorra"
