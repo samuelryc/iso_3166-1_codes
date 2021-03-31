@@ -10,7 +10,7 @@ ISO 3166-1 alpha-2 are two-letter country codes that represent countries. In thi
 * CSV (coming soon)
 * XML (coming soon)
 
-## Example (in JSON)
+## Example (for two-letter codes in JSON)
 ```
 [
     {
@@ -34,7 +34,9 @@ ISO 3166-1 alpha-2 are two-letter country codes that represent countries. In thi
 ```
 
 ## Sources
-The data is based on [this page](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2).
+* [Two-letter country codes](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2)
+* [Three-letter country codes](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-3)
+* [Numeric country codes](https://en.wikipedia.org/wiki/ISO_3166-1_numeric)
 
 ## Support
 Found that useful? You can use [this link](https://www.buymeacoffee.com/samuelryc) to support me. Thank you!
