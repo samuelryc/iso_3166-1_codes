@@ -827,7 +827,7 @@ $country_codes = [
     ],
     [
         "code" => "SR",
-        "country" => "Suricountry"
+        "country" => "Suriname"
     ],
     [
         "code" => "SS",
