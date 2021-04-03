@@ -1,6 +1,6 @@
 # Country codes
 
-Letter and numeric codes associated with their country.
+Letter and numeric codes associated with their country in different computer formats.
 
 ## Languages
 * JSON
