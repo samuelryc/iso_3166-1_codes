@@ -1,6 +1,6 @@
 # Country codes
 
-Letter and numeric codes associated with their country.
+Letter and numeric codes associated with their country in different computer formats.
 
 ## Languages
 * JSON
@@ -10,7 +10,7 @@ Letter and numeric codes associated with their country.
 * CSV (coming soon)
 * XML (coming soon)
 
-## Example (for two-letter codes in JSON)
+## Example: two-letter codes in JSON
 ```
 [
     {
