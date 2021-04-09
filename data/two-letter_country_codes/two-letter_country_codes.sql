@@ -7,6 +7,7 @@ CREATE TABLE IF NOT EXISTS country_codes (
 
 INSERT INTO country_codes(id, code, country) VALUES (20, 'AD', 'Andorra');
 INSERT INTO country_codes(id, code, country) VALUES (784, 'AE', 'United Arab Emirates');
+INSERT INTO country_codes(id, code, country) VALUES (4, 'AF', 'Afghanistan');
 INSERT INTO country_codes(id, code, country) VALUES (28, 'AG', 'Antigua and Barbuda');
 INSERT INTO country_codes(id, code, country) VALUES (660, 'AI', 'Anguilla');
 INSERT INTO country_codes(id, code, country) VALUES (8, 'AL', 'Albania');
@@ -29,7 +30,7 @@ INSERT INTO country_codes(id, code, country) VALUES (100, 'BG', 'Bulgaria');
 INSERT INTO country_codes(id, code, country) VALUES (48, 'BH', 'Bahrain');
 INSERT INTO country_codes(id, code, country) VALUES (108, 'BI', 'Burundi');
 INSERT INTO country_codes(id, code, country) VALUES (204, 'BJ', 'Benin');
-INSERT INTO country_codes(id, code, country) VALUES (204, 'BJ', 'Saint Barthélemy');
+INSERT INTO country_codes(id, code, country) VALUES (652, 'BJ', 'Saint Barthélemy');
 INSERT INTO country_codes(id, code, country) VALUES (60, 'BM', 'Bermuda');
 INSERT INTO country_codes(id, code, country) VALUES (96, 'BN', 'Brunei Darussalam');
 INSERT INTO country_codes(id, code, country) VALUES (68, 'BO', 'Bolivia, Plurinational State of');
