@@ -1,0 +1,997 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<0>
+    <code>ABW</code>
+    <country>Aruba</country>
+</0>
+<1>
+    <code>AFG</code>
+    <country>Afghanistan</country>
+</1>
+<2>
+    <code>AGO</code>
+    <country>Angola</country>
+</2>
+<3>
+    <code>AIA</code>
+    <country>Anguilla</country>
+</3>
+<4>
+    <code>ALA</code>
+    <country>Åland Islands</country>
+</4>
+<5>
+    <code>ALB</code>
+    <country>Albania</country>
+</5>
+<6>
+    <code>AND</code>
+    <country>Andorra</country>
+</6>
+<7>
+    <code>ARE</code>
+    <country>United Arab Emirates</country>
+</7>
+<8>
+    <code>ARG</code>
+    <country>Argentina</country>
+</8>
+<9>
+    <code>ARM</code>
+    <country>Armenia</country>
+</9>
+<10>
+    <code>ASM</code>
+    <country>American Samoa</country>
+</10>
+<11>
+    <code>ATA</code>
+    <country>Antarctica</country>
+</11>
+<12>
+    <code>ATF</code>
+    <country>French Southern Territories</country>
+</12>
+<13>
+    <code>ATG</code>
+    <country>Antigua and Barbuda</country>
+</13>
+<14>
+    <code>AUS</code>
+    <country>Australia</country>
+</14>
+<15>
+    <code>AUT</code>
+    <country>Austria</country>
+</15>
+<16>
+    <code>AZE</code>
+    <country>Azerbaijan</country>
+</16>
+<17>
+    <code>BDI</code>
+    <country>Burundi</country>
+</17>
+<18>
+    <code>BEL</code>
+    <country>Belgium</country>
+</18>
+<19>
+    <code>BEN</code>
+    <country>Benin</country>
+</19>
+<20>
+    <code>BES</code>
+    <country>Bonaire, Sint Eustatius and Saba</country>
+</20>
+<21>
+    <code>BFA</code>
+    <country>Burkina Faso</country>
+</21>
+<22>
+    <code>BGD</code>
+    <country>Bangladesh</country>
+</22>
+<23>
+    <code>BGR</code>
+    <country>Bulgaria</country>
+</23>
+<24>
+    <code>BHR</code>
+    <country>Bahrain</country>
+</24>
+<25>
+    <code>BHS</code>
+    <country>Bahamas</country>
+</25>
+<26>
+    <code>BIH</code>
+    <country>Bosnia and Herzegovina</country>
+</26>
+<27>
+    <code>BLM</code>
+    <country>Saint Barthélemy</country>
+</27>
+<28>
+    <code>BLR</code>
+    <country>Belarus</country>
+</28>
+<29>
+    <code>BLZ</code>
+    <country>Belize</country>
+</29>
+<30>
+    <code>BMU</code>
+    <country>Bermuda</country>
+</30>
+<31>
+    <code>BOL</code>
+    <country>Bolivia (Plurinational State of)</country>
+</31>
+<32>
+    <code>BRA</code>
+    <country>Brazil</country>
+</32>
+<33>
+    <code>BRB</code>
+    <country>Barbados</country>
+</33>
+<34>
+    <code>BRN</code>
+    <country>Brunei Darussalam</country>
+</34>
+<35>
+    <code>BTN</code>
+    <country>Bhutan</country>
+</35>
+<36>
+    <code>BVT</code>
+    <country>Bouvet Island</country>
+</36>
+<37>
+    <code>BWA</code>
+    <country>Botswana</country>
+</37>
+<38>
+    <code>CAF</code>
+    <country>Central African Republic</country>
+</38>
+<39>
+    <code>CAN</code>
+    <country>Canada</country>
+</39>
+<40>
+    <code>CCK</code>
+    <country>Cocos (Keeling) Islands</country>
+</40>
+<41>
+    <code>CHE</code>
+    <country>Switzerland</country>
+</41>
+<42>
+    <code>CHL</code>
+    <country>Chile</country>
+</42>
+<43>
+    <code>CHN</code>
+    <country>China</country>
+</43>
+<44>
+    <code>CIV</code>
+    <country>Côte d'Ivoire</country>
+</44>
+<45>
+    <code>CMR</code>
+    <country>Cameroon</country>
+</45>
+<46>
+    <code>COD</code>
+    <country>Congo, Democratic Republic of the</country>
+</46>
+<47>
+    <code>COG</code>
+    <country>Congo</country>
+</47>
+<48>
+    <code>COK</code>
+    <country>Cook Islands</country>
+</48>
+<49>
+    <code>COL</code>
+    <country>Colombia</country>
+</49>
+<50>
+    <code>COM</code>
+    <country>Comoros</country>
+</50>
+<51>
+    <code>CPV</code>
+    <country>Cabo Verde</country>
+</51>
+<52>
+    <code>CRI</code>
+    <country>Costa Rica</country>
+</52>
+<53>
+    <code>CUB</code>
+    <country>Cuba</country>
+</53>
+<54>
+    <code>CUW</code>
+    <country>Curaçao</country>
+</54>
+<55>
+    <code>CXR</code>
+    <country>Christmas Island</country>
+</55>
+<56>
+    <code>CYM</code>
+    <country>Cayman Islands</country>
+</56>
+<57>
+    <code>CYP</code>
+    <country>Cyprus</country>
+</57>
+<58>
+    <code>CZE</code>
+    <country>Czechia</country>
+</58>
+<59>
+    <code>DEU</code>
+    <country>Germany</country>
+</59>
+<60>
+    <code>DJI</code>
+    <country>Djibouti</country>
+</60>
+<61>
+    <code>DMA</code>
+    <country>Dominica</country>
+</61>
+<62>
+    <code>DNK</code>
+    <country>Denmark</country>
+</62>
+<63>
+    <code>DOM</code>
+    <country>Dominican Republic</country>
+</63>
+<64>
+    <code>DZA</code>
+    <country>Algeria</country>
+</64>
+<65>
+    <code>ECU</code>
+    <country>Ecuador</country>
+</65>
+<66>
+    <code>EGY</code>
+    <country>Egypt</country>
+</66>
+<67>
+    <code>ERI</code>
+    <country>Eritrea</country>
+</67>
+<68>
+    <code>ESH</code>
+    <country>Western Sahara</country>
+</68>
+<69>
+    <code>ESP</code>
+    <country>Spain</country>
+</69>
+<70>
+    <code>EST</code>
+    <country>Estonia</country>
+</70>
+<71>
+    <code>ETH</code>
+    <country>Ethiopia</country>
+</71>
+<72>
+    <code>FIN</code>
+    <country>Finland</country>
+</72>
+<73>
+    <code>FJI</code>
+    <country>Fiji</country>
+</73>
+<74>
+    <code>FLK</code>
+    <country>Falkland Islands (Malvinas)</country>
+</74>
+<75>
+    <code>FRA</code>
+    <country>France</country>
+</75>
+<76>
+    <code>FRO</code>
+    <country>Faroe Islands</country>
+</76>
+<77>
+    <code>FSM</code>
+    <country>Micronesia (Federated States of)</country>
+</77>
+<78>
+    <code>GAB</code>
+    <country>Gabon</country>
+</78>
+<79>
+    <code>GBR</code>
+    <country>United Kingdom of Great Britain and Northern Ireland</country>
+</79>
+<80>
+    <code>GEO</code>
+    <country>Georgia</country>
+</80>
+<81>
+    <code>GGY</code>
+    <country>Guernsey</country>
+</81>
+<82>
+    <code>GHA</code>
+    <country>Ghana</country>
+</82>
+<83>
+    <code>GIB</code>
+    <country>Gibraltar</country>
+</83>
+<84>
+    <code>GIN</code>
+    <country>Guinea</country>
+</84>
+<85>
+    <code>GLP</code>
+    <country>Guadeloupe</country>
+</85>
+<86>
+    <code>GMB</code>
+    <country>Gambia</country>
+</86>
+<87>
+    <code>GNB</code>
+    <country>Guinea-Bissau</country>
+</87>
+<88>
+    <code>GNQ</code>
+    <country>Equatorial Guinea</country>
+</88>
+<89>
+    <code>GRC</code>
+    <country>Greece</country>
+</89>
+<90>
+    <code>GRD</code>
+    <country>Grenada</country>
+</90>
+<91>
+    <code>GRL</code>
+    <country>Greenland</country>
+</91>
+<92>
+    <code>GTM</code>
+    <country>Guatemala</country>
+</92>
+<93>
+    <code>GUF</code>
+    <country>French Guiana</country>
+</93>
+<94>
+    <code>GUM</code>
+    <country>Guam</country>
+</94>
+<95>
+    <code>GUY</code>
+    <country>Guyana</country>
+</95>
+<96>
+    <code>HKG</code>
+    <country>Hong Kong</country>
+</96>
+<97>
+    <code>HMD</code>
+    <country>Heard Island and McDonald Islands</country>
+</97>
+<98>
+    <code>HND</code>
+    <country>Honduras</country>
+</98>
+<99>
+    <code>HRV</code>
+    <country>Croatia</country>
+</99>
+<100>
+    <code>HTI</code>
+    <country>Haiti</country>
+</100>
+<101>
+    <code>HUN</code>
+    <country>Hungary</country>
+</101>
+<102>
+    <code>IDN</code>
+    <country>Indonesia</country>
+</102>
+<103>
+    <code>IMN</code>
+    <country>Isle of Man</country>
+</103>
+<104>
+    <code>IND</code>
+    <country>India</country>
+</104>
+<105>
+    <code>IOT</code>
+    <country>British Indian Ocean Territory</country>
+</105>
+<106>
+    <code>IRL</code>
+    <country>Ireland</country>
+</106>
+<107>
+    <code>IRN</code>
+    <country>Iran (Islamic Republic of)</country>
+</107>
+<108>
+    <code>IRQ</code>
+    <country>Iraq</country>
+</108>
+<109>
+    <code>ISL</code>
+    <country>Iceland</country>
+</109>
+<110>
+    <code>ISR</code>
+    <country>Israel</country>
+</110>
+<111>
+    <code>ITA</code>
+    <country>Italy</country>
+</111>
+<112>
+    <code>JAM</code>
+    <country>Jamaica</country>
+</112>
+<113>
+    <code>JEY</code>
+    <country>Jersey</country>
+</113>
+<114>
+    <code>JOR</code>
+    <country>Jordan</country>
+</114>
+<115>
+    <code>JPN</code>
+    <country>Japan</country>
+</115>
+<116>
+    <code>KAZ</code>
+    <country>Kazakhstan</country>
+</116>
+<117>
+    <code>KEN</code>
+    <country>Kenya</country>
+</117>
+<118>
+    <code>KGZ</code>
+    <country>Kyrgyzstan</country>
+</118>
+<119>
+    <code>KHM</code>
+    <country>Cambodia</country>
+</119>
+<120>
+    <code>KIR</code>
+    <country>Kiribati</country>
+</120>
+<121>
+    <code>KNA</code>
+    <country>Saint Kitts and Nevis</country>
+</121>
+<122>
+    <code>KOR</code>
+    <country>Korea, Republic of</country>
+</122>
+<123>
+    <code>KWT</code>
+    <country>Kuwait</country>
+</123>
+<124>
+    <code>LAO</code>
+    <country>Lao People's Democratic Republic</country>
+</124>
+<125>
+    <code>LBN</code>
+    <country>Lebanon</country>
+</125>
+<126>
+    <code>LBR</code>
+    <country>Liberia</country>
+</126>
+<127>
+    <code>LBY</code>
+    <country>Libya</country>
+</127>
+<128>
+    <code>LCA</code>
+    <country>Saint Lucia</country>
+</128>
+<129>
+    <code>LIE</code>
+    <country>Liechtenstein</country>
+</129>
+<130>
+    <code>LKA</code>
+    <country>Sri Lanka</country>
+</130>
+<131>
+    <code>LSO</code>
+    <country>Lesotho</country>
+</131>
+<132>
+    <code>LTU</code>
+    <country>Lithuania</country>
+</132>
+<133>
+    <code>LUX</code>
+    <country>Luxembourg</country>
+</133>
+<134>
+    <code>LVA</code>
+    <country>Latvia</country>
+</134>
+<135>
+    <code>MAC</code>
+    <country>Macao</country>
+</135>
+<136>
+    <code>MAF</code>
+    <country>Saint Martin (French part)</country>
+</136>
+<137>
+    <code>MAR</code>
+    <country>Morocco</country>
+</137>
+<138>
+    <code>MCO</code>
+    <country>Monaco</country>
+</138>
+<139>
+    <code>MDA</code>
+    <country>Moldova, Republic of</country>
+</139>
+<140>
+    <code>MDG</code>
+    <country>Madagascar</country>
+</140>
+<141>
+    <code>MDV</code>
+    <country>Maldives</country>
+</141>
+<142>
+    <code>MEX</code>
+    <country>Mexico</country>
+</142>
+<143>
+    <code>MHL</code>
+    <country>Marshall Islands</country>
+</143>
+<144>
+    <code>MKD</code>
+    <country>North Macedonia</country>
+</144>
+<145>
+    <code>MLI</code>
+    <country>Mali</country>
+</145>
+<146>
+    <code>MLT</code>
+    <country>Malta</country>
+</146>
+<147>
+    <code>MMR</code>
+    <country>Myanmar</country>
+</147>
+<148>
+    <code>MNE</code>
+    <country>Montenegro</country>
+</148>
+<149>
+    <code>MNG</code>
+    <country>Mongolia</country>
+</149>
+<150>
+    <code>MNP</code>
+    <country>Northern Mariana Islands</country>
+</150>
+<151>
+    <code>MOZ</code>
+    <country>Mozambique</country>
+</151>
+<152>
+    <code>MRT</code>
+    <country>Mauritania</country>
+</152>
+<153>
+    <code>MSR</code>
+    <country>Montserrat</country>
+</153>
+<154>
+    <code>MTQ</code>
+    <country>Martinique</country>
+</154>
+<155>
+    <code>MUS</code>
+    <country>Mauritius</country>
+</155>
+<156>
+    <code>MWI</code>
+    <country>Malawi</country>
+</156>
+<157>
+    <code>MYS</code>
+    <country>Malaysia</country>
+</157>
+<158>
+    <code>MYT</code>
+    <country>Mayotte</country>
+</158>
+<159>
+    <code>NAM</code>
+    <country>Namibia</country>
+</159>
+<160>
+    <code>NCL</code>
+    <country>New Caledonia</country>
+</160>
+<161>
+    <code>NER</code>
+    <country>Niger</country>
+</161>
+<162>
+    <code>NFK</code>
+    <country>Norfolk Island</country>
+</162>
+<163>
+    <code>NGA</code>
+    <country>Nigeria</country>
+</163>
+<164>
+    <code>NIC</code>
+    <country>Nicaragua</country>
+</164>
+<165>
+    <code>NIU</code>
+    <country>Niue</country>
+</165>
+<166>
+    <code>NLD</code>
+    <country>Netherlands</country>
+</166>
+<167>
+    <code>NOR</code>
+    <country>Norway</country>
+</167>
+<168>
+    <code>NPL</code>
+    <country>Nepal</country>
+</168>
+<169>
+    <code>NRU</code>
+    <country>Nauru</country>
+</169>
+<170>
+    <code>NZL</code>
+    <country>New Zealand</country>
+</170>
+<171>
+    <code>OMN</code>
+    <country>Oman</country>
+</171>
+<172>
+    <code>PAK</code>
+    <country>Pakistan</country>
+</172>
+<173>
+    <code>PAN</code>
+    <country>Panama</country>
+</173>
+<174>
+    <code>PCN</code>
+    <country>Pitcairn</country>
+</174>
+<175>
+    <code>PER</code>
+    <country>Peru</country>
+</175>
+<176>
+    <code>PHL</code>
+    <country>Philippines</country>
+</176>
+<177>
+    <code>PLW</code>
+    <country>Palau</country>
+</177>
+<178>
+    <code>PNG</code>
+    <country>Papua New Guinea</country>
+</178>
+<179>
+    <code>POL</code>
+    <country>Poland</country>
+</179>
+<180>
+    <code>PRI</code>
+    <country>Puerto Rico</country>
+</180>
+<181>
+    <code>PRK</code>
+    <country>Korea (Democratic People's Republic of)</country>
+</181>
+<182>
+    <code>PRT</code>
+    <country>Portugal</country>
+</182>
+<183>
+    <code>PRY</code>
+    <country>Paraguay</country>
+</183>
+<184>
+    <code>PSE</code>
+    <country>Palestine, State of</country>
+</184>
+<185>
+    <code>PYF</code>
+    <country>French Polynesia</country>
+</185>
+<186>
+    <code>QAT</code>
+    <country>Qatar</country>
+</186>
+<187>
+    <code>REU</code>
+    <country>Réunion</country>
+</187>
+<188>
+    <code>ROU</code>
+    <country>Romania</country>
+</188>
+<189>
+    <code>RUS</code>
+    <country>Russian Federation</country>
+</189>
+<190>
+    <code>RWA</code>
+    <country>Rwanda</country>
+</190>
+<191>
+    <code>SAU</code>
+    <country>Saudi Arabia</country>
+</191>
+<192>
+    <code>SDN</code>
+    <country>Sudan</country>
+</192>
+<193>
+    <code>SEN</code>
+    <country>Senegal</country>
+</193>
+<194>
+    <code>SGP</code>
+    <country>Singapore</country>
+</194>
+<195>
+    <code>SGS</code>
+    <country>South Georgia and the South Sandwich Islands</country>
+</195>
+<196>
+    <code>SHN</code>
+    <country>Saint Helena, Ascension and Tristan da Cunha</country>
+</196>
+<197>
+    <code>SJM</code>
+    <country>Svalbard and Jan Mayen</country>
+</197>
+<198>
+    <code>SLB</code>
+    <country>Solomon Islands</country>
+</198>
+<199>
+    <code>SLE</code>
+    <country>Sierra Leone</country>
+</199>
+<200>
+    <code>SLV</code>
+    <country>El Salvador</country>
+</200>
+<201>
+    <code>SMR</code>
+    <country>San Marino</country>
+</201>
+<202>
+    <code>SOM</code>
+    <country>Somalia</country>
+</202>
+<203>
+    <code>SPM</code>
+    <country>Saint Pierre and Miquelon</country>
+</203>
+<204>
+    <code>SRB</code>
+    <country>Serbia</country>
+</204>
+<205>
+    <code>SSD</code>
+    <country>South Sudan</country>
+</205>
+<206>
+    <code>STP</code>
+    <country>Sao Tome and Principe</country>
+</206>
+<207>
+    <code>SUR</code>
+    <country>Suriname</country>
+</207>
+<208>
+    <code>SVK</code>
+    <country>Slovakia</country>
+</208>
+<209>
+    <code>SVN</code>
+    <country>Slovenia</country>
+</209>
+<210>
+    <code>SWE</code>
+    <country>Sweden</country>
+</210>
+<211>
+    <code>SWZ</code>
+    <country>Eswatini</country>
+</211>
+<212>
+    <code>SXM</code>
+    <country>Sint Maarten (Dutch part)</country>
+</212>
+<213>
+    <code>SYC</code>
+    <country>Seychelles</country>
+</213>
+<214>
+    <code>SYR</code>
+    <country>Syrian Arab Republic</country>
+</214>
+<215>
+    <code>TCA</code>
+    <country>Turks and Caicos Islands</country>
+</215>
+<216>
+    <code>TCD</code>
+    <country>Chad</country>
+</216>
+<217>
+    <code>TGO</code>
+    <country>Togo</country>
+</217>
+<218>
+    <code>THA</code>
+    <country>Thailand</country>
+</218>
+<219>
+    <code>TJK</code>
+    <country>Tajikistan</country>
+</219>
+<220>
+    <code>TKL</code>
+    <country>Tokelau</country>
+</220>
+<221>
+    <code>TKM</code>
+    <country>Turkmenistan</country>
+</221>
+<222>
+    <code>TLS</code>
+    <country>Timor-Leste</country>
+</222>
+<223>
+    <code>TON</code>
+    <country>Tonga</country>
+</223>
+<224>
+    <code>TTO</code>
+    <country>Trinidad and Tobago</country>
+</224>
+<225>
+    <code>TUN</code>
+    <country>Tunisia</country>
+</225>
+<226>
+    <code>TUR</code>
+    <country>Turkey</country>
+</226>
+<227>
+    <code>TUV</code>
+    <country>Tuvalu</country>
+</227>
+<228>
+    <code>TWN</code>
+    <country>Taiwan, Province of China</country>
+</228>
+<229>
+    <code>TZA</code>
+    <country>Tanzania, United Republic of</country>
+</229>
+<230>
+    <code>UGA</code>
+    <country>Uganda</country>
+</230>
+<231>
+    <code>UKR</code>
+    <country>Ukraine</country>
+</231>
+<232>
+    <code>UMI</code>
+    <country>United States Minor Outlying Islands</country>
+</232>
+<233>
+    <code>URY</code>
+    <country>Uruguay</country>
+</233>
+<234>
+    <code>USA</code>
+    <country>United States of America</country>
+</234>
+<235>
+    <code>UZB</code>
+    <country>Uzbekistan</country>
+</235>
+<236>
+    <code>VAT</code>
+    <country>Holy See</country>
+</236>
+<237>
+    <code>VCT</code>
+    <country>Saint Vincent and the Grenadines</country>
+</237>
+<238>
+    <code>VEN</code>
+    <country>Venezuela (Bolivarian Republic of)</country>
+</238>
+<239>
+    <code>VGB</code>
+    <country>Virgin Islands (British)</country>
+</239>
+<240>
+    <code>VIR</code>
+    <country>Virgin Islands (U.S.)</country>
+</240>
+<241>
+    <code>VNM</code>
+    <country>Viet Nam</country>
+</241>
+<242>
+    <code>VUT</code>
+    <country>Vanuatu</country>
+</242>
+<243>
+    <code>WLF</code>
+    <country>Wallis and Futuna</country>
+</243>
+<244>
+    <code>WSM</code>
+    <country>Samoa</country>
+</244>
+<245>
+    <code>YEM</code>
+    <country>Yemen</country>
+</245>
+<246>
+    <code>ZAF</code>
+    <country>South Africa</country>
+</246>
+<247>
+    <code>ZMB</code>
+    <country>Zambia</country>
+</247>
+<248>
+    <code>ZWE</code>
+    <country>Zimbabwe</country>
+</248>

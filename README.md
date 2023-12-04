@@ -7,9 +7,9 @@ Letter and numeric codes associated with their country in different computer for
 * PHP
 * Python
 * SQL
-* CSV (coming soon)
-* XML (coming soon)
-* YAML (coming soon)
+* CSV
+* XML
+* YAML
 
 ## Example: two-letter codes in JSON
 ```
