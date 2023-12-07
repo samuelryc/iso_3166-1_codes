@@ -35,9 +35,9 @@ Letter and numeric codes associated with their location (country, dependent terr
 ```
 
 ## Sources
-* [Two-letter ISO 3166-1 alpha-2 codes](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2)
-* [Three-letter ISO 3166-1 alpha-3 codes](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-3)
-* [Numeric ISO 3166-1 numeric codes](https://en.wikipedia.org/wiki/ISO_3166-1_numeric)
+* [ISO 3166-1 alpha-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2)
+* [ISO 3166-1 alpha-3](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-3)
+* [ISO 3166-1 numeric](https://en.wikipedia.org/wiki/ISO_3166-1_numeric)
 
 ## Support
 Found that useful? You can use [this link](https://www.buymeacoffee.com/samuelryc) to support me. Thank you!
