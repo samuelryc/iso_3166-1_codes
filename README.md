@@ -11,7 +11,7 @@ Letter and numeric codes associated with their location (country, dependent terr
 * XML
 * YAML
 
-## Example: two-letter ISO 3166-1 alpha-2 codes in JSON
+## Example: ISO 3166-1 alpha-2 in JSON
 ```
 [
     {
