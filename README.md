@@ -1,4 +1,4 @@
-# Country codes
+# ISO country codes
 
 Letter and numeric codes associated with their location (country, dependent territory or special areas of geographical interest) in different computer formats.
 
