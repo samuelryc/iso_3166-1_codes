@@ -1,6 +1,6 @@
 <?php
 
-$iso_3166_1_alpha_3_codes = [
+$ISO_3166_1_alpha_3 = [
     [
         "code" => "ABW",
         "location" => "Aruba"

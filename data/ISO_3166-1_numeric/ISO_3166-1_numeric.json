@@ -1,998 +1,998 @@
 [
     {
         "code": "004",
-        "country": "Afghanistan"
+        "location": "Afghanistan"
     },
     {
         "code": "008",
-        "country": "Albania"
+        "location": "Albania"
     },
     {
         "code": "010",
-        "country": "Antarctica"
+        "location": "Antarctica"
     },
     {
         "code": "012",
-        "country": "Algeria"
+        "location": "Algeria"
     },
     {
         "code": "016",
-        "country": "American Samoa"
+        "location": "American Samoa"
     },
     {
         "code": "020",
-        "country": "Andorra"
+        "location": "Andorra"
     },
     {
         "code": "024",
-        "country": "Angola"
+        "location": "Angola"
     },
     {
         "code": "028",
-        "country": "Antigua and Barbuda"
+        "location": "Antigua and Barbuda"
     },
     {
         "code": "031",
-        "country": "Azerbaijan"
+        "location": "Azerbaijan"
     },
     {
         "code": "032",
-        "country": "Argentina"
+        "location": "Argentina"
     },
     {
         "code": "036",
-        "country": "Australia"
+        "location": "Australia"
     },
     {
         "code": "040",
-        "country": "Austria"
+        "location": "Austria"
     },
     {
         "code": "044",
-        "country": "Bahamas"
+        "location": "Bahamas"
     },
     {
         "code": "048",
-        "country": "Bahrain"
+        "location": "Bahrain"
     },
     {
         "code": "050",
-        "country": "Bangladesh"
+        "location": "Bangladesh"
     },
     {
         "code": "051",
-        "country": "Armenia"
+        "location": "Armenia"
     },
     {
         "code": "052",
-        "country": "Barbados"
+        "location": "Barbados"
     },
     {
         "code": "056",
-        "country": "Belgium"
+        "location": "Belgium"
     },
     {
         "code": "060",
-        "country": "Bermuda"
+        "location": "Bermuda"
     },
     {
         "code": "064",
-        "country": "Bhutan"
+        "location": "Bhutan"
     },
     {
         "code": "068",
-        "country": "Bolivia (Plurinational State of)"
+        "location": "Bolivia (Plurinational State of)"
     },
     {
         "code": "070",
-        "country": "Bosnia and Herzegovina"
+        "location": "Bosnia and Herzegovina"
     },
     {
         "code": "072",
-        "country": "Botswana"
+        "location": "Botswana"
     },
     {
         "code": "074",
-        "country": "Bouvet Island"
+        "location": "Bouvet Island"
     },
     {
         "code": "076",
-        "country": "Brazil"
+        "location": "Brazil"
     },
     {
         "code": "084",
-        "country": "Belize"
+        "location": "Belize"
     },
     {
         "code": "086",
-        "country": "British Indian Ocean Territory"
+        "location": "British Indian Ocean Territory"
     },
     {
         "code": "090",
-        "country": "Solomon Islands"
+        "location": "Solomon Islands"
     },
     {
         "code": "092",
-        "country": "Virgin Islands (British)"
+        "location": "Virgin Islands (British)"
     },
     {
         "code": "096",
-        "country": "Brunei Darussalam"
+        "location": "Brunei Darussalam"
     },
     {
         "code": "100",
-        "country": "Bulgaria"
+        "location": "Bulgaria"
     },
     {
         "code": "104",
-        "country": "Myanmar"
+        "location": "Myanmar"
     },
     {
         "code": "108",
-        "country": "Burundi"
+        "location": "Burundi"
     },
     {
         "code": "112",
-        "country": "Belarus"
+        "location": "Belarus"
     },
     {
         "code": "116",
-        "country": "Cambodia"
+        "location": "Cambodia"
     },
     {
         "code": "120",
-        "country": "Cameroon"
+        "location": "Cameroon"
     },
     {
         "code": "124",
-        "country": "Canada"
+        "location": "Canada"
     },
     {
         "code": "132",
-        "country": "Cabo Verde"
+        "location": "Cabo Verde"
     },
     {
         "code": "136",
-        "country": "Cayman Islands"
+        "location": "Cayman Islands"
     },
     {
         "code": "140",
-        "country": "Central African Republic"
+        "location": "Central African Republic"
     },
     {
         "code": "144",
-        "country": "Sri Lanka"
+        "location": "Sri Lanka"
     },
     {
         "code": "148",
-        "country": "Chad"
+        "location": "Chad"
     },
     {
         "code": "152",
-        "country": "Chile"
+        "location": "Chile"
     },
     {
         "code": "156",
-        "country": "China"
+        "location": "China"
     },
     {
         "code": "158",
-        "country": "Taiwan, Province of China"
+        "location": "Taiwan, Province of China"
     },
     {
         "code": "162",
-        "country": "Christmas Island"
+        "location": "Christmas Island"
     },
     {
         "code": "166",
-        "country": "Cocos (Keeling) Islands"
+        "location": "Cocos (Keeling) Islands"
     },
     {
         "code": "170",
-        "country": "Colombia"
+        "location": "Colombia"
     },
     {
         "code": "174",
-        "country": "Comoros"
+        "location": "Comoros"
     },
     {
         "code": "175",
-        "country": "Mayotte"
+        "location": "Mayotte"
     },
     {
         "code": "178",
-        "country": "Congo"
+        "location": "Congo"
     },
     {
         "code": "180",
-        "country": "Congo, Democratic Republic of the"
+        "location": "Congo, Democratic Republic of the"
     },
     {
         "code": "184",
-        "country": "Cook Islands"
+        "location": "Cook Islands"
     },
     {
         "code": "188",
-        "country": "Costa Rica"
+        "location": "Costa Rica"
     },
     {
         "code": "191",
-        "country": "Croatia"
+        "location": "Croatia"
     },
     {
         "code": "192",
-        "country": "Cuba"
+        "location": "Cuba"
     },
     {
         "code": "196",
-        "country": "Cyprus"
+        "location": "Cyprus"
     },
     {
         "code": "203",
-        "country": "Czechia"
+        "location": "Czechia"
     },
     {
         "code": "204",
-        "country": "Benin"
+        "location": "Benin"
     },
     {
         "code": "208",
-        "country": "Denmark"
+        "location": "Denmark"
     },
     {
         "code": "212",
-        "country": "Dominica"
+        "location": "Dominica"
     },
     {
         "code": "214",
-        "country": "Dominican Republic"
+        "location": "Dominican Republic"
     },
     {
         "code": "218",
-        "country": "Ecuador"
+        "location": "Ecuador"
     },
     {
         "code": "222",
-        "country": "El Salvador"
+        "location": "El Salvador"
     },
     {
         "code": "226",
-        "country": "Equatorial Guinea"
+        "location": "Equatorial Guinea"
     },
     {
         "code": "231",
-        "country": "Ethiopia"
+        "location": "Ethiopia"
     },
     {
         "code": "232",
-        "country": "Eritrea"
+        "location": "Eritrea"
     },
     {
         "code": "233",
-        "country": "Estonia"
+        "location": "Estonia"
     },
     {
         "code": "234",
-        "country": "Faroe Islands"
+        "location": "Faroe Islands"
     },
     {
         "code": "238",
-        "country": "Falkland Islands (Malvinas)"
+        "location": "Falkland Islands (Malvinas)"
     },
     {
         "code": "239",
-        "country": "South Georgia and the South Sandwich Islands"
+        "location": "South Georgia and the South Sandwich Islands"
     },
     {
         "code": "242",
-        "country": "Fiji"
+        "location": "Fiji"
     },
     {
         "code": "246",
-        "country": "Finland"
+        "location": "Finland"
     },
     {
         "code": "248",
-        "country": "Åland Islands"
+        "location": "Åland Islands"
     },
     {
         "code": "250",
-        "country": "France"
+        "location": "France"
     },
     {
         "code": "254",
-        "country": "French Guiana"
+        "location": "French Guiana"
     },
     {
         "code": "258",
-        "country": "French Polynesia"
+        "location": "French Polynesia"
     },
     {
         "code": "260",
-        "country": "French Southern Territories"
+        "location": "French Southern Territories"
     },
     {
         "code": "262",
-        "country": "Djibouti"
+        "location": "Djibouti"
     },
     {
         "code": "266",
-        "country": "Gabon"
+        "location": "Gabon"
     },
     {
         "code": "268",
-        "country": "Georgia"
+        "location": "Georgia"
     },
     {
         "code": "270",
-        "country": "Gambia"
+        "location": "Gambia"
     },
     {
         "code": "275",
-        "country": "Palestine, State of"
+        "location": "Palestine, State of"
     },
     {
         "code": "276",
-        "country": "Germany"
+        "location": "Germany"
     },
     {
         "code": "288",
-        "country": "Ghana"
+        "location": "Ghana"
     },
     {
         "code": "292",
-        "country": "Gibraltar"
+        "location": "Gibraltar"
     },
     {
         "code": "296",
-        "country": "Kiribati"
+        "location": "Kiribati"
     },
     {
         "code": "300",
-        "country": "Greece"
+        "location": "Greece"
     },
     {
         "code": "304",
-        "country": "Greenland"
+        "location": "Greenland"
     },
     {
         "code": "308",
-        "country": "Grenada"
+        "location": "Grenada"
     },
     {
         "code": "312",
-        "country": "Guadeloupe"
+        "location": "Guadeloupe"
     },
     {
         "code": "316",
-        "country": "Guam"
+        "location": "Guam"
     },
     {
         "code": "320",
-        "country": "Guatemala"
+        "location": "Guatemala"
     },
     {
         "code": "324",
-        "country": "Guinea"
+        "location": "Guinea"
     },
     {
         "code": "328",
-        "country": "Guyana"
+        "location": "Guyana"
     },
     {
         "code": "332",
-        "country": "Haiti"
+        "location": "Haiti"
     },
     {
         "code": "334",
-        "country": "Heard Island and McDonald Islands"
+        "location": "Heard Island and McDonald Islands"
     },
     {
         "code": "336",
-        "country": "Holy See"
+        "location": "Holy See"
     },
     {
         "code": "340",
-        "country": "Honduras"
+        "location": "Honduras"
     },
     {
         "code": "344",
-        "country": "Hong Kong"
+        "location": "Hong Kong"
     },
     {
         "code": "348",
-        "country": "Hungary"
+        "location": "Hungary"
     },
     {
         "code": "352",
-        "country": "Iceland"
+        "location": "Iceland"
     },
     {
         "code": "356",
-        "country": "India"
+        "location": "India"
     },
     {
         "code": "360",
-        "country": "Indonesia"
+        "location": "Indonesia"
     },
     {
         "code": "364",
-        "country": "Iran (Islamic Republic of)"
+        "location": "Iran (Islamic Republic of)"
     },
     {
         "code": "368",
-        "country": "Iraq"
+        "location": "Iraq"
     },
     {
         "code": "372",
-        "country": "Ireland"
+        "location": "Ireland"
     },
     {
         "code": "376",
-        "country": "Israel"
+        "location": "Israel"
     },
     {
         "code": "380",
-        "country": "Italy"
+        "location": "Italy"
     },
     {
         "code": "384",
-        "country": "Côte d'Ivoire"
+        "location": "Côte d'Ivoire"
     },
     {
         "code": "388",
-        "country": "Jamaica"
+        "location": "Jamaica"
     },
     {
         "code": "392",
-        "country": "Japan"
+        "location": "Japan"
     },
     {
         "code": "398",
-        "country": "Kazakhstan"
+        "location": "Kazakhstan"
     },
     {
         "code": "400",
-        "country": "Jordan"
+        "location": "Jordan"
     },
     {
         "code": "404",
-        "country": "Kenya"
+        "location": "Kenya"
     },
     {
         "code": "408",
-        "country": "Korea (Democratic People's Republic of)"
+        "location": "Korea (Democratic People's Republic of)"
     },
     {
         "code": "410",
-        "country": "Korea, Republic of"
+        "location": "Korea, Republic of"
     },
     {
         "code": "414",
-        "country": "Kuwait"
+        "location": "Kuwait"
     },
     {
         "code": "417",
-        "country": "Kyrgyzstan"
+        "location": "Kyrgyzstan"
     },
     {
         "code": "418",
-        "country": "Lao People's Democratic Republic"
+        "location": "Lao People's Democratic Republic"
     },
     {
         "code": "422",
-        "country": "Lebanon"
+        "location": "Lebanon"
     },
     {
         "code": "426",
-        "country": "Lesotho"
+        "location": "Lesotho"
     },
     {
         "code": "428",
-        "country": "Latvia"
+        "location": "Latvia"
     },
     {
         "code": "430",
-        "country": "Liberia"
+        "location": "Liberia"
     },
     {
         "code": "434",
-        "country": "Libya"
+        "location": "Libya"
     },
     {
         "code": "438",
-        "country": "Liechtenstein"
+        "location": "Liechtenstein"
     },
     {
         "code": "440",
-        "country": "Lithuania"
+        "location": "Lithuania"
     },
     {
         "code": "442",
-        "country": "Luxembourg"
+        "location": "Luxembourg"
     },
     {
         "code": "446",
-        "country": "Macao"
+        "location": "Macao"
     },
     {
         "code": "450",
-        "country": "Madagascar"
+        "location": "Madagascar"
     },
     {
         "code": "454",
-        "country": "Malawi"
+        "location": "Malawi"
     },
     {
         "code": "458",
-        "country": "Malaysia"
+        "location": "Malaysia"
     },
     {
         "code": "462",
-        "country": "Maldives"
+        "location": "Maldives"
     },
     {
         "code": "466",
-        "country": "Mali"
+        "location": "Mali"
     },
     {
         "code": "470",
-        "country": "Malta"
+        "location": "Malta"
     },
     {
         "code": "474",
-        "country": "Martinique"
+        "location": "Martinique"
     },
     {
         "code": "478",
-        "country": "Mauritania"
+        "location": "Mauritania"
     },
     {
         "code": "480",
-        "country": "Mauritius"
+        "location": "Mauritius"
     },
     {
         "code": "484",
-        "country": "Mexico"
+        "location": "Mexico"
     },
     {
         "code": "492",
-        "country": "Monaco"
+        "location": "Monaco"
     },
     {
         "code": "496",
-        "country": "Mongolia"
+        "location": "Mongolia"
     },
     {
         "code": "498",
-        "country": "Moldova, Republic of"
+        "location": "Moldova, Republic of"
     },
     {
         "code": "499",
-        "country": "Montenegro"
+        "location": "Montenegro"
     },
     {
         "code": "500",
-        "country": "Montserrat"
+        "location": "Montserrat"
     },
     {
         "code": "504",
-        "country": "Morocco"
+        "location": "Morocco"
     },
     {
         "code": "508",
-        "country": "Mozambique"
+        "location": "Mozambique"
     },
     {
         "code": "512",
-        "country": "Oman"
+        "location": "Oman"
     },
     {
         "code": "516",
-        "country": "Namibia"
+        "location": "Namibia"
     },
     {
         "code": "520",
-        "country": "Nauru"
+        "location": "Nauru"
     },
     {
         "code": "524",
-        "country": "Nepal"
+        "location": "Nepal"
     },
     {
         "code": "528",
-        "country": "Netherlands"
+        "location": "Netherlands"
     },
     {
         "code": "531",
-        "country": "Curaçao"
+        "location": "Curaçao"
     },
     {
         "code": "533",
-        "country": "Aruba"
+        "location": "Aruba"
     },
     {
         "code": "534",
-        "country": "Sint Maarten (Dutch part)"
+        "location": "Sint Maarten (Dutch part)"
     },
     {
         "code": "535",
-        "country": "Bonaire, Sint Eustatius and Saba"
+        "location": "Bonaire, Sint Eustatius and Saba"
     },
     {
         "code": "540",
-        "country": "New Caledonia"
+        "location": "New Caledonia"
     },
     {
         "code": "548",
-        "country": "Vanuatu"
+        "location": "Vanuatu"
     },
     {
         "code": "554",
-        "country": "New Zealand"
+        "location": "New Zealand"
     },
     {
         "code": "558",
-        "country": "Nicaragua"
+        "location": "Nicaragua"
     },
     {
         "code": "562",
-        "country": "Niger"
+        "location": "Niger"
     },
     {
         "code": "566",
-        "country": "Nigeria"
+        "location": "Nigeria"
     },
     {
         "code": "570",
-        "country": "Niue"
+        "location": "Niue"
     },
     {
         "code": "574",
-        "country": "Norfolk Island"
+        "location": "Norfolk Island"
     },
     {
         "code": "578",
-        "country": "Norway"
+        "location": "Norway"
     },
     {
         "code": "580",
-        "country": "Northern Mariana Islands"
+        "location": "Northern Mariana Islands"
     },
     {
         "code": "581",
-        "country": "United States Minor Outlying Islands"
+        "location": "United States Minor Outlying Islands"
     },
     {
         "code": "583",
-        "country": "Micronesia (Federated States of)"
+        "location": "Micronesia (Federated States of)"
     },
     {
         "code": "584",
-        "country": "Marshall Islands"
+        "location": "Marshall Islands"
     },
     {
         "code": "585",
-        "country": "Palau"
+        "location": "Palau"
     },
     {
         "code": "586",
-        "country": "Pakistan"
+        "location": "Pakistan"
     },
     {
         "code": "591",
-        "country": "Panama"
+        "location": "Panama"
     },
     {
         "code": "598",
-        "country": "Papua New Guinea"
+        "location": "Papua New Guinea"
     },
     {
         "code": "600",
-        "country": "Paraguay"
+        "location": "Paraguay"
     },
     {
         "code": "604",
-        "country": "Peru"
+        "location": "Peru"
     },
     {
         "code": "608",
-        "country": "Philippines"
+        "location": "Philippines"
     },
     {
         "code": "612",
-        "country": "Pitcairn"
+        "location": "Pitcairn"
     },
     {
         "code": "616",
-        "country": "Poland"
+        "location": "Poland"
     },
     {
         "code": "620",
-        "country": "Portugal"
+        "location": "Portugal"
     },
     {
         "code": "624",
-        "country": "Guinea-Bissau"
+        "location": "Guinea-Bissau"
     },
     {
         "code": "626",
-        "country": "Timor-Leste"
+        "location": "Timor-Leste"
     },
     {
         "code": "630",
-        "country": "Puerto Rico"
+        "location": "Puerto Rico"
     },
     {
         "code": "634",
-        "country": "Qatar"
+        "location": "Qatar"
     },
     {
         "code": "638",
-        "country": "Réunion"
+        "location": "Réunion"
     },
     {
         "code": "642",
-        "country": "Romania"
+        "location": "Romania"
     },
     {
         "code": "643",
-        "country": "Russian Federation"
+        "location": "Russian Federation"
     },
     {
         "code": "646",
-        "country": "Rwanda"
+        "location": "Rwanda"
     },
     {
         "code": "652",
-        "country": "Saint Barthélemy"
+        "location": "Saint Barthélemy"
     },
     {
         "code": "654",
-        "country": "Saint Helena, Ascension and Tristan da Cunha"
+        "location": "Saint Helena, Ascension and Tristan da Cunha"
     },
     {
         "code": "659",
-        "country": "Saint Kitts and Nevis"
+        "location": "Saint Kitts and Nevis"
     },
     {
         "code": "660",
-        "country": "Anguilla"
+        "location": "Anguilla"
     },
     {
         "code": "662",
-        "country": "Saint Lucia"
+        "location": "Saint Lucia"
     },
     {
         "code": "663",
-        "country": "Saint Martin (French part)"
+        "location": "Saint Martin (French part)"
     },
     {
         "code": "666",
-        "country": "Saint Pierre and Miquelon"
+        "location": "Saint Pierre and Miquelon"
     },
     {
         "code": "670",
-        "country": "Saint Vincent and the Grenadines"
+        "location": "Saint Vincent and the Grenadines"
     },
     {
         "code": "674",
-        "country": "San Marino"
+        "location": "San Marino"
     },
     {
         "code": "678",
-        "country": "Sao Tome and Principe"
+        "location": "Sao Tome and Principe"
     },
     {
         "code": "682",
-        "country": "Saudi Arabia"
+        "location": "Saudi Arabia"
     },
     {
         "code": "686",
-        "country": "Senegal"
+        "location": "Senegal"
     },
     {
         "code": "688",
-        "country": "Serbia"
+        "location": "Serbia"
     },
     {
         "code": "690",
-        "country": "Seychelles"
+        "location": "Seychelles"
     },
     {
         "code": "694",
-        "country": "Sierra Leone"
+        "location": "Sierra Leone"
     },
     {
         "code": "702",
-        "country": "Singapore"
+        "location": "Singapore"
     },
     {
         "code": "703",
-        "country": "Slovakia"
+        "location": "Slovakia"
     },
     {
         "code": "704",
-        "country": "Viet Nam"
+        "location": "Viet Nam"
     },
     {
         "code": "705",
-        "country": "Slovenia"
+        "location": "Slovenia"
     },
     {
         "code": "706",
-        "country": "Somalia"
+        "location": "Somalia"
     },
     {
         "code": "710",
-        "country": "South Africa"
+        "location": "South Africa"
     },
     {
         "code": "716",
-        "country": "Zimbabwe"
+        "location": "Zimbabwe"
     },
     {
         "code": "724",
-        "country": "Spain"
+        "location": "Spain"
     },
     {
         "code": "728",
-        "country": "South Sudan"
+        "location": "South Sudan"
     },
     {
         "code": "729",
-        "country": "Sudan"
+        "location": "Sudan"
     },
     {
         "code": "732",
-        "country": "Western Sahara"
+        "location": "Western Sahara"
     },
     {
         "code": "740",
-        "country": "Suriname"
+        "location": "Suriname"
     },
     {
         "code": "744",
-        "country": "Svalbard and Jan Mayen"
+        "location": "Svalbard and Jan Mayen"
     },
     {
         "code": "748",
-        "country": "Eswatini"
+        "location": "Eswatini"
     },
     {
         "code": "752",
-        "country": "Sweden"
+        "location": "Sweden"
     },
     {
         "code": "756",
-        "country": "Switzerland"
+        "location": "Switzerland"
     },
     {
         "code": "760",
-        "country": "Syrian Arab Republic"
+        "location": "Syrian Arab Republic"
     },
     {
         "code": "762",
-        "country": "Tajikistan"
+        "location": "Tajikistan"
     },
     {
         "code": "764",
-        "country": "Thailand"
+        "location": "Thailand"
     },
     {
         "code": "768",
-        "country": "Togo"
+        "location": "Togo"
     },
     {
         "code": "772",
-        "country": "Tokelau"
+        "location": "Tokelau"
     },
     {
         "code": "776",
-        "country": "Tonga"
+        "location": "Tonga"
     },
     {
         "code": "780",
-        "country": "Trinidad and Tobago"
+        "location": "Trinidad and Tobago"
     },
     {
         "code": "784",
-        "country": "United Arab Emirates"
+        "location": "United Arab Emirates"
     },
     {
         "code": "788",
-        "country": "Tunisia"
+        "location": "Tunisia"
     },
     {
         "code": "792",
-        "country": "Turkey"
+        "location": "Turkey"
     },
     {
         "code": "795",
-        "country": "Turkmenistan"
+        "location": "Turkmenistan"
     },
     {
         "code": "796",
-        "country": "Turks and Caicos Islands"
+        "location": "Turks and Caicos Islands"
     },
     {
         "code": "798",
-        "country": "Tuvalu"
+        "location": "Tuvalu"
     },
     {
         "code": "800",
-        "country": "Uganda"
+        "location": "Uganda"
     },
     {
         "code": "804",
-        "country": "Ukraine"
+        "location": "Ukraine"
     },
     {
         "code": "807",
-        "country": "North Macedonia"
+        "location": "North Macedonia"
     },
     {
         "code": "818",
-        "country": "Egypt"
+        "location": "Egypt"
     },
     {
         "code": "826",
-        "country": "United Kingdom of Great Britain and Northern Ireland"
+        "location": "United Kingdom of Great Britain and Northern Ireland"
     },
     {
         "code": "831",
-        "country": "Guernsey"
+        "location": "Guernsey"
     },
     {
         "code": "832",
-        "country": "Jersey"
+        "location": "Jersey"
     },
     {
         "code": "833",
-        "country": "Isle of Man"
+        "location": "Isle of Man"
     },
     {
         "code": "834",
-        "country": "Tanzania, United Republic of"
+        "location": "Tanzania, United Republic of"
     },
     {
         "code": "840",
-        "country": "United States of America"
+        "location": "United States of America"
     },
     {
         "code": "850",
-        "country": "Virgin Islands (U.S.)"
+        "location": "Virgin Islands (U.S.)"
     },
     {
         "code": "854",
-        "country": "Burkina Faso"
+        "location": "Burkina Faso"
     },
     {
         "code": "858",
-        "country": "Uruguay"
+        "location": "Uruguay"
     },
     {
         "code": "860",
-        "country": "Uzbekistan"
+        "location": "Uzbekistan"
     },
     {
         "code": "862",
-        "country": "Venezuela (Bolivarian Republic of)"
+        "location": "Venezuela (Bolivarian Republic of)"
     },
     {
         "code": "876",
-        "country": "Wallis and Futuna"
+        "location": "Wallis and Futuna"
     },
     {
         "code": "882",
-        "country": "Samoa"
+        "location": "Samoa"
     },
     {
         "code": "887",
-        "country": "Yemen"
+        "location": "Yemen"
     },
     {
         "code": "894",
-        "country": "Zambia"
+        "location": "Zambia"
     }
 ]

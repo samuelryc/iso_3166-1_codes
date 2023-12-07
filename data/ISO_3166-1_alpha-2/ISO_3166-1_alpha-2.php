@@ -1,6 +1,6 @@
 <?php
 
-$iso_3166_1_alpha_2_codes = [
+$ISO_3166_1_alpha_2 = [
     [
         "code" => "AD",
         "location" => "Andorra"

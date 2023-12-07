@@ -1,4 +1,4 @@
-country_codes = [
+ISO_3166_1_numeric = [
     {
         "code": "004",
         "country": "Afghanistan"
