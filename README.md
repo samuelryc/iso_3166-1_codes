@@ -1,4 +1,4 @@
-# ISO location codes
+# ISO 3166-1 codes
 
 Letter and numeric codes associated with their location (country, dependent territory or special areas of geographical interest) in different computer formats.
 
